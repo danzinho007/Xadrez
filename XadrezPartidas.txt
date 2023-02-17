@@ -1,0 +1,78 @@
+Xadrez Partidas 
+
+Ordem de Rating ( Classificação )
+Nome ( Rating ) --- Nome V-E-D
+
+Cassie 023(5 partidas)---Ander  0x0x2
+Pete 037 (2 partidas)---Andre   2x0x0 OK
+-----------------------Argyle  1x0x0(844)
+Niko 057 (1 partida)--Audrey 463 2x0x0 OK
+Ben 084(1 partida)---Ben : 1x0x0 OK
+-----------------Berry 0x0x1 (1068)
+-----------------Bogie 0x0x1(1000)
+0x0 Sabrina 140--Carrie 2x0x0 OK
+0x0 Monique 230--Cassie 3x1x1 ( 5 )OK
+1x0 Petra   311--Chessmaster 0x0x2
+-----------------Christian 0x0x1 (1173)
+-----------------Darcy 0x1x1
+1x0 Parker  313--Duke 0x0x1 OK
+Andre 317(2 partidas)------Eddie 0x0x2 OK
+Kamika 347(1 partida)--Ella 0x0x1 OK
+-----------------------Jeff 0x0x1
+Darcy 410(? partida)--Jenna 1x0x0 OK
+Tex 427(? partida)--Jesse 1x0x0 OK
+--------------------Joey 0x0x1 (1000)
+Audrey 463(2 partidas)--Jonesie 0x1x0 OK
+-----------------
+-----------------Kamika 0x1x0 OK
+Manny------------Kendra 1x0x0 OK
+Lydia------------Kid 2x0x0 OK
+---------------Lisa 0x0x1
+---------------Luca FALTA (500)
+Ross------------Lucy 0x0x2 OK
+----------------Lydia 0x1x0 OK
+Lisa 0x1x0-----------Manny 2x0x0
+---------------------Marius FALTA (1000)
+------------------Mark 0x0x1
+--------------------Mona FALTA ( 500 )
+Jesse------------Monique 0x1x0 OK
+Tina------------Niko 1x0x0OK
+Skippy------------Parker 1x0x0 OK
+Carrie------------Pete 2x0x0OK
+------------------Petra OK
+------------------Raj OK
+------------------Ross 1x0x0
+------------------Sabrina OK
+------------------Seth FALTA ( 500)
+------------------Simon OK
+------------------Skippy OK
+------------------Sonja OK
+------------------Teea OK
+------------------Tex 1x0x0
+------------------Thorian FALTA (1000)
+------------------Tina OK
+------------------Willow FALTA (1000)
+
+*** 501 até 1.000
+
+1x0 Manny(26/01)1
+Lydia
+Ross
+Lisa
+
+1x0Jesse(25/01)2
+1x0Tina (26/01)3
+Skippy
+Carrie
+
+0x1x0Simon(26/01)
+1x0 Jenna4
+Seth
+1x1Teea(25/01)5
+
+2 vs 0 Kid
+1 x 0 Kendra
+Mona
+1 x 0 Sonja
+
+0x1x0 Jonesie
