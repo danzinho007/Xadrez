@@ -1,0 +1,43 @@
+Importações :
+
+_future_ Diretiva
+Síntaxe de Retorno de Função
+-io = padrão
+Ferramentas para Trabalhar com E/S ( Entrada/Saída )
+-find_packages() = Instalar setuptools
+Funções Específicas do path sem precisar digitar 'os.path' toda vez
+-numpy = instalar
+Biblioteca Computação Numérica
+-os = padrão
+Maneira usar Recursos do S.O como ler ou gravar arquivos
+-PIL = Biblioteca
+Processamento de Imagens em Python
+-Pillow = Instalar
+Importa a Classe Image do Módulo PIL
+-re = Módulo
+Expressões Regulares
+-scipy = Instalar
+Biblioteca Processamento Científico
+-setup() = Instalar setuptools
+Definir e Configurar pacote Python ( Empacotar )
+-subprocess = Módulo
+Permite Criação e Gerenciado de Processos Secundários do S.O
+-tempfile = Módulo
+Fornece meio seguro para Criar arquivos e Diretórios temporários
+-tqdm = Instalar
+Framework Barra de Progresso em Loops
+-torch = Instalar
+Framework Aprendizado de Máquina
+-transformers = Instalar
+Biblioteca Processamento de Linguagem Natural
+-typing = Padrão
+
+Instalou :
+
+numpy
+Pillow
+scipy
+setuptools por causa de find_packages() e setup()
+tqdm
+torch
+transformers

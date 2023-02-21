@@ -1,0 +1,26 @@
+chão : vazio
+fundo : vazio
+parede : #
+jogador : @
+Caixa : $
+Objetivo : .
+Caixa encima do objetivo : *
+
+
+http://borgar.net/programs/sokoban/#Intro
+https://cariboutests.com/games/sokoban.php
+https://cdn.htmlgames.com/Sokoban/index.html
+https://www.codeproject.com/Articles/9149/Sokoban-Pro
+https://www.joriswit.nl/sokoban/
+https://www.mathsisfun.com/games/sokoban.html
+https://pt.wikipedia.org/wiki/Sokoban = Wikipedia
+https://scratch.mit.edu/search/projects?q=sokoban
+http://simplesok.osdn.io/
+https://sokoban-game.com/
+http://www.sokobano.de/wiki/index.php?title=Main_Page
+https://www.sokobanonline.com/
+
+Medium
+https://alonso-delarte.medium.com/the-basics-of-sokoban-f503a21e38ba
+PDF
+https://www.ic.unicamp.br/~rocha/teaching/2011s1/mc906/trabalhos/tp/tp-gr-13.pdf
