@@ -3,7 +3,7 @@
 Ordem de Rating ( Classificação )
 Nome ( Rating ) --- Nome V-E-D
 
-Adam 1218 = Falta
+Adam 1214 = OK
 Anders = OK
 Andre = OK
 Argyle = OK
@@ -11,7 +11,7 @@ Audrey = OK
 Ben = OK
 Berry = OK
 Bogie = OK
-Buddy 1228 = Falta
+Buddy 1224 = OK
 Carrie = OK
 Cassie = OK
 Chessmaster
@@ -20,7 +20,7 @@ Darcy = OK
 Duke = OK
 Eddie = OK
 Ella = OK
-Gil 1269 = Falta
+Gil 1265 = OK
 Hayden 1274 = Falta
 Jeff = OK
 Jenna = OK
