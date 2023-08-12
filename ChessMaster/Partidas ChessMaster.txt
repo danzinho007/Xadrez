@@ -1,0 +1,23 @@
+
+Parker 313 = venci
+Petra 311 = perdi
+Raj 1049 = empate
+Ross 553 = venci
+
+e4 c5 Cf3 Cc6 d4 cxd4 = FY
+e4 c5 Cf3 d6 d4 cxd4 = GO
+e4 c6 d4 Da5+ = AJ
+
+e4 e5 Cc3 = W
+e4 e5 Cc3 Cf6 = AI
+e4 e5 Cc3 Cf6 Bc4 = AI
+e4 e5 Cc3 Cf6 Bc4 Bb4 = AI
+
+e4 e5 Cf3 Cc6 d3 d6 / = OO
+e4 e5 Cf3 Cc6 d4 d6 / = OO
+e4 e5 Dh5 Cf6 / Imp Cf6 = ZY
+
+e4 e6 d4 Dh4 = CT
+
+f3 d5 = 
+f3 d5 h3 = 
