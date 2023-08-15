@@ -1,52 +1,10 @@
 
-e4 c5 b4 = E
-e4 c5 Bc4 = G
-e4 c5 Cc3 = O
-e4 c5 Cf3 = CK 
-e4 c5 Cf3 Cc6 = CK
-e4 c5 Cf3 Cc6 d4 cxd4 = FY
-e4 c5 Cf3 d6 d4 cxd4 = GO
-e4 c5 Cf3 d6 = CS
-e4 c5 Cf3 d6 d4 = CV
-e4 c6 d4 Da5+ = AJ
-
-e4 e5 = Peão Rei :
-e4 e5 Cc3 = W
-e4 e5 Cc3 Cf6 = AI
-e4 e5 Cc3 Cf6 Bc4 = AI
-e4 e5 Cc3 Cf6 Bc4 Bb4 = AI
-
-e4 e5 Cf3 = Peão Rei : Var Rei Cavalo
-e4 e5 Cf3 Cc6 Bb5 = RuyLopez :BK
-e4 e5 Cf3 Cc6 Bb5 a6 Ba4 Bd6 = CK
-e4 e5 Cf3 Cc6 Bb5 a6 Ba4 Cf6 = CK
-e4 e5 Cf3 Cc6 Bb5 a6 Ba4 h6 = CS
 e4 e5 Cf3 Cc6 Bb5 a6 Bxc6 bxc6 = CW
-e4 e5 Cf3 Cc6 Bb5 Bc5 = DI
-e4 e5 Cf3 Cc6 Bb5 Cf6 = RuyLopez Def Berlin: DQ
-e4 e5 Cf3 Cc6 Bb5 Cf6 Cc3 = Jogo4Cavalos VarEsp :
-e4 e5 Cf3 Cc6 Bb5 Cf6 Cc3 Cd4 = Jogo4Cav VarEsp Rubistein ContraGamb : DU
-e4 e5 Cf3 Cc6 Bb5 Cf6 Cc3 Cd4 Cxd4 = Jogo4Cav VarEsp Rubistein ContraGamb Aceito : DW
-e4 e5 Cf3 Cc6 Bb5 Cf6 Cc3 Cd4 Cxd4 e5 dxc3 = Jogo4Cav VarEsp Rubistein ContraGamb Aceito VarTrocas : DY
-e4 e5 Cf3 Cc6 Bb5 Cf6 Cc3 Cd4 Cxd4 e5 dxc3 exf6 Dxf6 dxc3 De5+ = Jogo4Cav VarEsp Rubistein ContraGamb Aceito VarTrocas : DY
-e4 e5 Cf3 Cc6 Bb5 Cf6 d4 = : 
+e4 e5 Cf3 Cc6 Bb5 Cf6 d4 = primeira :
 e4 e5 Cf3 Cc6 Bb5 d6 = segunda :
 e4 e5 Cf3 Cc6 d3 = terceira : PG
-e4 e5 Cf3 Cc6 d3 d6 / = OO
-e4 e5 Cf3 Cc6 d4 d6 / = OO
 e4 e5 Cf3 Cf6 = Quarta :
-e4 e5 Dh5 Cf6 / Imp Cf6 = ZY
 e4 e6 d4 a6 = Quinta : AK
-
-e4 e6 = Defesa Francesa
-e4 e6 d4 = Def Fra Var Normal
-e4 e6 d4 Cc6 = Def Nimzowitsch : BG
-e4 e6 d4 Cc6 Cf3 = : BG
-e4 e6 d4 Dh4 = CT
-
-f3 d5 = 
-f3 d5 h3 = 
-
 
 [Event "Live Chess - chess"]
 [Site "Chess.com"]
@@ -158,63 +116,3 @@ Rc8 42. Bb6 f4 43. Nxf4+ Bxf4 44. Kb2 Rb8 45. Ba7 Rb7 46. Bc5 Bg3 47. c3 Bxh4
 48. Bd6 Rd7 49. Bc5 Rd5 50. Bb6 Be4 51. Ba5 Rd2+ 52. Kc1 Bg5 53. Bb6 Rg2+ 54.
 Kd1 Rg1+ 55. Ke2 Rg2+ 56. Kf1 Kf5 57. Ke1 Bf4 58. Kf1 Bd2 59. Bc7 Be3 60. Bb6
 Rf2+ 0-1
-
-G1 /// G2 /// G3
-Audrey 2/// Ella 1 /// Liz ?
-Tex 2 /// Eddie 2 /// Amo ?
-Darcy 1 /// Duke 1 /// Aaron ?
-Kamika 2 /// Jonesie 1 /// Ash ?
-Andre 2 /// Luca 1 /// Will ?
-Parker 2 /// Anders 2 /// Alicia ?
-Petra 2 /// Argyle 3 /// Elijah ?
-Monique 2 /// Sonja 2 /// Diana ?
-Sabrina 2 /// Mona 2 /// Mariah ?
-Ben 2 /// Kendra 2 /// Joan ?
-Niko 2 /// Kid 2 /// Josh7 ?
-Pete 2 /// Teea 3 /// Eric ?
-Cassie 5 /// Seth 2 /// 
-/// 
-/// 
-/// 
-/// 
-
-G1 
-Andre /// Eddie
-Audrey /// Duke
-Ben
-Cassie
-Darcy
-Kamika
-Monique
-Niko
-Parker
-Pete
-Petra
-Sabrina
-Tex
-
-Duke
-Ella
-Eddi
-Jonesie
-Lydia
-Luca
-Manny
-
-Josh9 - 1800 - G4 = Perdi 2x
-Liz - 1498 - G3 = Perdi 3x
-Kamika 347 - G1 = Venci
-Kendra 790 - G2 = Venci
-Lisa 576 - G2 = Empate
-Luca 866 - G2 = Venci
-Lydia 532 - G2 = Perdi 1x
-
-
-
-Parker 313 = venci
-Petra 311 = perdi
-Raj 1049 = empate
-Ross 553 = venci
-
-
-
