@@ -1,4 +1,4 @@
-Ataque/Def / ForçaDeJogo
+Ataque/Def / ForcaDeJogo
 
 Carrie = 100 / 25
 Ella = 100 / 26
