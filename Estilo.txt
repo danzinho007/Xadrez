@@ -1,0 +1,45 @@
+Ataque/Def / ForçaDeJogo
+
+Carrie = 100 / 25
+Ella = 100 / 26
+Darcy = 89
+Tex = 85
+Petra = 80
+Lisa = 75
+Sonja = 75
+Andre = 62
+Argyle = 50
+Kendra = 40
+Ben = 35
+Pete = 33
+Monique = 30
+Skippy = 25
+Jenna = 15
+Kid = 10
+Jesse = 6
+Manny = 0 ----------/ 22
+Kamika = -5
+Luca = -10
+Parker = -10
+Seth = -11
+Simon = -18
+Audrey = -20
+Duke = -25
+Ross = -35
+Anders = -40
+Lydia = -40
+Eddie = -50
+Mona = -75
+Sabrina = -80
+Niko = -91
+Cassie = -95 / +7 /
+Jonesie = -95       / 25
+Teea = -100         / 25
+Tina = -100         / 25
+
+Cassie#2 :
+1x0 Cassie 23( Perdeu no tempo e na partida )
+1x0 Niko 57 (Perdeu no tempo)
+
+Dorsa 1x0 Beth
+Hou 1x0 Dinara
