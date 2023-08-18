@@ -1,3 +1,301 @@
+Duelistas :
+
+A (OK)
+Aaron 1452 = G3 (OK 01)
+Adam = G3 Undervaleues pieces (OK 02)
+Alekhine = G5 (OK 01)
+Alicia 1417 = G3 (OK 01)
+Amo 1464 = G3 (OK 01)
+Anders = G2 (OK 03)
+Anderssen = G5 (OK 01)
+Andre = G1 01 (OK 02)
+Andy = G3
+Annie = 
+Argyle = G2 (OK 04)
+Ash = G3
+Audrey = G1 Defensive
+
+B
+Ben = G1 02
+Berry = G3 Plays for material
+Bird = 
+Blackburne =  
+Bogie = G3 Controls center
+Botvinnik = 
+Buck = 
+Buddy = G3 Play fast, takes draws
+
+C
+Cal = 
+Carrie = G2
+Cassie = G1 03
+Charles = 
+Chessmaster = 
+Christian = G3 Relentless attacker
+Christiansen = 
+Cole = 
+
+D
+Darcy = G1 04 Worries about opponent's queen
+Dave = 
+Diana = G3
+Dobie = 
+Dock = 
+Duke = G2
+Dylan = 
+
+E
+Eddie = G2
+Elijah = G3
+Ella = G2
+Erica = G3
+Euwe = 
+Evan = 
+
+F
+Fine = 
+Fischer = 
+Flohr = 
+Frederic = 
+
+G
+Geller = 
+George = 
+Gil = G3 Makes random moves
+Ginger = 
+Griffin = G3
+Guillaume = 
+
+H
+Hans = 
+Hayden = G3 Sometimes makes random moves
+
+I
+Ioan = G3
+Ivanchuk = 
+
+J
+J.T = 
+Jeff = G3 Overvalues rooks
+Jenna = G2
+Jesse = G2
+Jessica = 
+Jinx = 
+Joey = G3 Solid player
+John = 
+Jon = 
+Jonesie = G2
+Josh 6 = G3 Goes for the king, brings queen out early, never gives up
+Josh 7 = G3
+Josh 8 = 
+Josh 9 = 
+Josh 12 =
+
+K
+Kamika = G1 Values queens and knights
+Kamsky = 
+Kanna = 
+Karpov = 
+Kashdan = 
+Kendra = G2
+Kenji = 
+Keres = 
+Kid = G2
+Korchnoi = 
+Kamnik = 
+Kris = G3 Weak openings
+Krycek = G3 Good openings and endgames
+
+L
+Lacey = G3
+Lisa = G2
+Luca = G2
+Lucy = G3 Promote pawns
+Lydia = G2
+Kamika = G1 05
+Kris = G3
+Krycek = G3
+
+M
+Manny = G1 06
+Maiah = G3
+Marius = G3 Likes to capture
+Mark = G3 Favors bishops
+Miguel = G3 Overvalues pawns
+Miranda = G3 Neglects center
+Mona = G2
+Monique = G1 07
+Niko = G1 08
+Orin = G3 Undecided
+Parker = G1 09
+Pete = G1 10
+Petra = G1 11
+
+R
+Raj = G3 Trades away pieces
+Risa = G3 Hangs pawns
+Ross = G2
+
+S
+Sabrina = G1 12
+Seb = G3
+Seth = G2
+Shaun = G3
+Simon = G2
+Skippy = G2
+Sonja = G2
+
+T
+Teea = G2
+Tex = G1 13 Defensive
+Thorian = G3 Perhaps too cautious
+Tina = G2
+Trudy = G3 Knight Opening
+
+W
+Will = G3
+Willow = G3 Accepts draws, undervalues knights
+
+
+Xadrez Partidas 
+
+Ordem de Rating ( ClassificaÃ§Ã£o )
+Nome ( Rating ) --- Nome V-E-D
+
+Adam 1214 = OK
+Anders = OK
+Andre = OK
+Argyle = OK
+Audrey = OK
+Ben = OK
+Berry = OK
+Bogie = OK
+Buddy 1224 = OK
+Carrie = OK
+Cassie = OK
+Chessmaster
+Christian = OK
+Darcy = OK
+Duke = OK
+Eddie = OK
+Ella = OK
+Gil 1265 = OK
+Hayden 1274 = Falta
+Jeff = OK
+Jenna = OK
+Jesse = OK
+Joey = OK
+Jonesie = OK
+Josh 1200 = Falta
+Kamika = OK
+Kendra = OK
+Kid = OK
+Kris 1203 = Falta
+Krycek 1208 = Falta
+Lisa = OK
+Luca 866 = OK
+Lucy = OK
+Lydia = OK
+Manny = OK
+Marius 1127 = Falta 
+Mark = OK
+Miguel 1249 = Falta
+Mirando 1204 = Falta
+Mona 806 = OK
+Monique = OK
+Niko = OK
+Orin 1236 = Falta
+Parker = OK
+Pete = OK
+Petra = OK
+Raj = OK
+Risa 1255 = Falta
+Ross = OK
+Sabrina = OK
+Seth 707 = OK
+Simon = OK
+Skippy = OK
+Sonja = OK
+Teea = OK
+Tex = OK
+Thorian 1183 = Falta
+Tina = OK
+Trudy 1294 = Falta
+Willow 1182 = OK
+
+Cassie 023(5 partidas)---Ander  0x0x2
+Pete 037 (2 partidas)---Andre   2x0x0 OK
+-----------------------Argyle  1x0x0(844)
+Niko 057 (1 partida)--Audrey 463 2x0x0 OK
+Ben 084(1 partida)---Ben : 1x0x0 OK
+-----------------Berry 0x0x1 (1068)
+-----------------Bogie 0x0x1(1000)
+0x0 Sabrina 140--Carrie 2x0x0 OK
+0x0 Monique 230--Cassie 3x1x1 ( 5 )OK
+1x0 Petra   311--Chessmaster 0x0x2
+-----------------Christian 0x0x1 (1173)
+-----------------Darcy 0x1x1
+1x0 Parker  313--Duke 0x0x1 OK
+Andre 317(2 partidas)------Eddie 0x0x2 OK
+Kamika 347(1 partida)--Ella 0x0x1 OK
+-----------------------Jeff 0x0x1
+Darcy 410(? partida)--Jenna 1x0x0 OK
+Tex 427(? partida)--Jesse 1x0x0 OK
+--------------------Joey 0x0x1 (1000)
+Audrey 463(2 partidas)--Jonesie 0x1x0 OK
+-----------------
+-----------------Kamika 0x1x0 OK
+Manny------------Kendra 1x0x0 OK
+Lydia------------Kid 2x0x0 OK
+---------------Lisa 0x0x1
+---------------Luca FALTA (500)
+Ross------------Lucy 0x0x2 OK
+----------------Lydia 0x1x0 OK
+Lisa 0x1x0-----------Manny 2x0x0
+---------------------Marius FALTA (1000)
+------------------Mark 0x0x1
+--------------------Mona FALTA ( 500 )
+Jesse------------Monique 0x1x0 OK
+Tina------------Niko 1x0x0OK
+Skippy------------Parker 1x0x0 OK
+Carrie------------Pete 2x0x0OK
+------------------Petra OK
+------------------Raj OK
+------------------Ross 1x0x0
+------------------Sabrina OK
+------------------Seth FALTA ( 500)
+------------------Simon OK
+------------------Skippy OK
+------------------Sonja OK
+------------------Teea OK
+------------------Tex 1x0x0
+------------------Thorian FALTA (1000)
+------------------Tina OK
+------------------Willow FALTA (1000)
+
+*** 501 atÃ© 1.000
+
+1x0 Manny(26/01)1
+Lydia
+Ross
+Lisa
+
+1x0Jesse(25/01)2
+1x0Tina (26/01)3
+Skippy
+Carrie
+
+0x1x0Simon(26/01)
+1x0 Jenna4
+Seth
+1x1Teea(25/01)5
+
+2 vs 0 Kid
+1 x 0 Kendra
+Mona
+1 x 0 Sonja
+
+0x1x0 Jonesie
 
 e4 c5 b4 = E
 e4 c5 Bc4 = G
@@ -10,13 +308,13 @@ e4 c5 Cf3 d6 = CS
 e4 c5 Cf3 d6 d4 = CV
 e4 c6 d4 Da5+ = AJ
 
-e4 e5 = Peão Rei :
+e4 e5 = Peï¿½o Rei :
 e4 e5 Cc3 = W
 e4 e5 Cc3 Cf6 = AI
 e4 e5 Cc3 Cf6 Bc4 = AI
 e4 e5 Cc3 Cf6 Bc4 Bb4 = AI
 
-e4 e5 Cf3 = Peão Rei : Var Rei Cavalo
+e4 e5 Cf3 = Peï¿½o Rei : Var Rei Cavalo
 e4 e5 Cf3 Cc6 Bb5 = RuyLopez :BK
 e4 e5 Cf3 Cc6 Bb5 a6 Ba4 Bd6 = CK
 e4 e5 Cf3 Cc6 Bb5 a6 Ba4 Cf6 = CK
@@ -58,7 +356,7 @@ f3 d5 h3 =
 [TimeControl "600"]
 [WhiteElo "643"]
 [BlackElo "666"]
-[Termination "jonnynotbravo venceu por desistência"]
+[Termination "jonnynotbravo venceu por desistï¿½ncia"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 (4... dxc6) 5. Nxe5 d5 6. exd5 cxd5
 7. Qf3 Be6 8. d4 Bd6 9. Bf4 Ne7 10. Nc3 c5 11. dxc5 Bxc5 12. O-O Ng6 13. Nxg6
@@ -75,7 +373,7 @@ Qxb2 20. Qxg7 Bc4 21. Rfe1+ Kd7 22. Rxd4 Bxa2 23. Nc4+ 1-0
 [TimeControl "600"]
 [WhiteElo "677"]
 [BlackElo "693"]
-[Termination "Empate por repetição"]
+[Termination "Empate por repetiï¿½ï¿½o"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d4 Nxe4 5. dxe5 d6 6. Nc3 Nxc3 7. bxc3 Bd7 8.
 O-O Be7 9. Bg5 f6 10. exf6 gxf6 11. Bh4 Ne5 12. Bxd7+ Nxd7 13. Re1 Ne5 14. Nxe5
@@ -96,7 +394,7 @@ b3 41. Qb4+ Qb6 42. Qxa4 b2 43. Qe4+ Qc6 44. Qb4+ Qb6 45. Qe4+ c6 46. Qe7+ Ka6
 [TimeControl "600"]
 [WhiteElo "664"]
 [BlackElo "680"]
-[Termination "JoeMcHugh3 venceu por desistência"]
+[Termination "JoeMcHugh3 venceu por desistï¿½ncia"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 g6 5. d5 Bd7 6. dxc6 bxc6 7. Ba4 Nf6 8. Bg5
 Bg7 9. Nc3 O-O 10. O-O a5 11. a3 h6 12. Bxf6 Qxf6 13. b4 Rfb8 14. b5 cxb5 15.
@@ -114,7 +412,7 @@ Rxe8 0-1
 [TimeControl "600"]
 [WhiteElo "649"]
 [BlackElo "676"]
-[Termination "SGMDanMorishima venceu por desistência"]
+[Termination "SGMDanMorishima venceu por desistï¿½ncia"]
 
 1. e4 e5 2. Nf3 Nc6 3. d3 d5 4. Nc3 d4 5. Na4 Be6 6. Bd2 Bb4 7. c3 Be7 8. cxd4
 exd4 9. Nc5 Bxc5 10. Qc2 Be7 11. h3 f5 12. exf5 Bxf5 0-1
