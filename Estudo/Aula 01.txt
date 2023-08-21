@@ -1,0 +1,10 @@
+Aula 01 :
+
+1- Dominar o centro : d4 ou e4 
+2- Avançar os peões caso o adversário ignore o centro
+Ex : e4 Cf6 Melhor depois é e5
+
+a6 = ignora o centro
+b6 = ignora o centro
+
+e4 Cf6 = Defesa Alekhine
