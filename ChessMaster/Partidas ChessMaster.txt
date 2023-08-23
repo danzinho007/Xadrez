@@ -3,40 +3,187 @@ Xadrez Partidas
 Ordem de Rating ( Classificação )
 Nome ( Rating ) --- Nome V-E-D
 
-Adam 1214 = OK
-Anders = OK
-Andre = OK
-Argyle = OK
-Audrey = OK
+A
+Aaron 1454 = 1 > 2 ( 22/08 perdi 1 )
+Adam 1216 = OK 2 D
+Adms, M = Falta
+Akopian, V = Falta
+Alekhine GM = 1
+Alicia 1419 = 1 > 2 ( 22/08 perdi 2 )
+Amo 1466 = 1 > 2 ( 22/08 perdi 3 )
+Anand, V = Falta
+Anand GM = Falta
+Anders 859 = OK 3
+Anderssen, A = 1
+Anderssen GM = Falta
+Andersson CP = Falta
+Andre 317 = OK 3
+Andy 1323 = Falta
+Annie 1537 = Falta
+Argyle 844 = OK 4
+Aronian CP = Falta
+Aronian Levon CP = Falta
+Ash 1442 = 1 ( 22/08 perdi 4 )
+Audrey 463 = OK 2
+Avebakh CP = 1 ( 22/08 perdi 5 )
+
+B
+BeHarmon = 
 Ben = OK
+Bernstein, O = 
 Berry = OK
+Bird = 
+Blackburne = 
+Bledow = 
+Bogart = 
 Bogie = OK
+Bogolijubov = 
+Boi = 
+Boleslavsky = 
+Botvinnik = 
+Bronstein = 
+Buck = 
 Buddy 1224 = OK
+
+C
+Cal = 
+Capablanca = 
+Carlsen = 
 Carrie = OK
+Caruana = 
 Cassie = OK
-Chessmaster
+Cassie #2 = 
+Charles = 
+Chess Master = 
+Chessmaster = 
+Chiburdanidze = 
+Chigorin = 
 Christian = OK
+Christiansen = 
+Cm11 Archangel = 
+Cole = 
+Corzo = 
+Cute Kitty = 
+
+D
 Darcy = OK
+Dave = 
+Di Bona = 
+Diana = 
+Dinara Saduakassova = 
+Ding Liren = 
+Dobie = 
+Dock = 
+Dorsa Deakhshani = 
 Duke = OK
+Dylan = 
+
+E
 Eddie = OK
+Einstein = 
+Elijah =
 Ella = OK
+Eric = 
+Euwe = 
+Evans = 
+
+F
+Fine = 
+Firozja = 
+Fischer = 
+Flohr = 
+Frederic = 
+
+G
+Geller = 
 Gil 1265 = OK
+Ginger = 
+Gligoric = 
+GM Evandro Barb = 
+Griffin = 
+Guillaume = 
+
+H
+HAL 9000 = 
+Hans = 
 Hayden 1274 = Falta
+Hort = 
+Hou Yufan = 
+
+I
+Ioan = 
+Ivanchuk = 
+
+J
+J.T. = 
+Jade = 
+Janowski = 
 Jeff = OK
 Jenna = OK
 Jesse = OK
+Jessica = 
+Jinx = 
 Joey = OK
+John = 
+Jon = 
 Jonesie = OK
-Josh 1200 = Falta
+Josh 6 = 
+Josh 7 = 
+Josh 8 = 
+Josh 9 = 
+Josh 12 = 
+
+K
 Kamika = OK
+Kamsky = 
+Kanna = 
+Karpov = 
+Kashdan = 
+Kasimdzhanov = 
+Kasparov, G = 
+Kasparov = 
 Kendra = OK
+Kenji = 
+Keres = 
+Khalifamn, A = 
 Kid = OK
+Kieseritzky = 
+Koltanowski = 
+Korchnoi, V = 
+Korchnoi = 
+Kramnik, V = 
+Kramnik = 
 Kris 1203 = Falta
+Krush = 
 Krycek 1208 = Falta
+
+L
+La Bourdonnais =
+Lacey = 
+Larsen, B = 
+Larsen = 
+Lasker, Ed = 
+Lasker, Em = 
+Lasker = 
+Laura = 
+Leko, P = 
+Leko = 
+Liam = 
+Lili = 
+Liren = 
 Lisa = OK
+Liz = 
+Ljubojevic =
+Logan = 
+Lopez = 
+Lori = 
+Lou =  
 Luca 866 = OK
 Lucy = OK
+Lyke = 
 Lydia = OK
+
+M ( parei aqui )
 Manny = OK
 Marius 1127 = Falta 
 Mark = OK

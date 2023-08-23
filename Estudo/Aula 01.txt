@@ -1,10 +1,43 @@
 Aula 01 :
 
-1- Dominar o centro : d4 ou e4 
-2- Avançar os peões caso o adversário ignore o centro
-Ex : e4 Cf6 Melhor depois é e5
+Welcome to the Chess Master Academy. I'm Josh Waitzkin. 
+I fell in love with chess when I was six years old, and I've spent much of my life in the sway of this beautiful, riveting art form. 
+Over the years I've won and lost countless National and World Championship games around the globe and I've emerged from my experience with an appreciation for the journey and a passion for learning. 
+An amazing thing about chess is you can study if for a lifetime and still discover new mysteries everyday; and yet you can also feel the essential beauty of the game in your first lessons. 
+If you have not yet touched the mystery of chess, you're in for a treat.
 
-a6 = ignora o centro
-b6 = ignora o centro
+countless = incontáveis
+emerged = emergiu
+fell = caiu
+old = velho
+passion = paixão
+riveting = fascinante
+spent = gasto
+sway = balanço
+treat = surpresa
 
-e4 Cf6 = Defesa Alekhine
+In this Academy I'll lay the foundation for your exploration of what I call the Black and White Jungle.
+In Part One of the course, we'll learn the rules of chess. 
+I'll teach you the powers and values of the pieces; and once you've internalized these basics, we'll be ready to enter the heart and the soul of the game. 
+In Part Two of the course, I'll teach you the fundamentals of chess tactics; and you'll possess the building blocks to the arsenal that propelled me to the top of the scholastic chess world. 
+Then, in Part Three, we'll delve into some more subtle, strategical ideas that will be powerful both on and off the chess board.
+
+I have come to believe that the best way to approach chess is in a manner that teaches us about ourselves and about learning in general. I recommend that you keep your eyes open for the parallels between life and chess. They're out there waiting to be discovered. Over time, you'll internalize the lessons of this academy and the principles will become part of your intuition. Then the chess board will become a thrilling arena for you to express yourself with creativity and freedom.
+
+  Before we begin, I'd like to make a few suggestions. As you progress through this Academy and beyond, please remember: growth comes at the point of resistance. This course will gradually stretch the mind. So don't get frustruated if you're stumped or forget something. I can't tell you how many chess problems have confused me until the answer dawned like a revelation. I may sometimes ask a question which feels a bit tricky. In general, the more effort you put into these challenges, the more you'll get out of the experience. The idea is not to get everything right, but to do the best you can with the knowledge you have so far, and then to soak in my explanations. If I've learned anything over the years, it's that the road to mastery is about growth, not perfection. So with that spirit, let's dive in. Welcome to the Black and White Jungle.
+
+Let's begin with the chess board. There are sixty-four squares on the chess board. Thirty-two light. Thirty-two dark. When we talk about the game, the lines that run vertically up and down the board are called files, the lines that run horizontally across the board are called ranks, and the lines that cut diagonally through the board are called diagonals. So these are you're files, these are your ranks, and these are your diagonals.
+
+Now remember, when you set up a chess board, you always want to have a light square in the lower right-hand corner of the board. In the beginning of the game, white always goes first. We'll get to that later.
+
+Now we're going to learn the language of chess, what's called Algebraic Notation. The vertical columns on the chess board, the files, are lettered A through H. This is the A file, the B file, the C, D, E, F file, G file, H file. The horizontal ranks are numbered 1 through 8. This is the 1st rank, 2nd rank, 3rd rank, 4th, 5th, 6th, 7th, 8th rank.
+
+  So if we're talking about this square, we line up the letter, which we see is the D, and the number, 5. This is the D5 square. This is the F6 square. This square over here, if you line up the letter and the number, is the C7 square. Why don't you try a few.
+
+Now let's get to know the chess pieces. This is the king. This is the queen, the rook, the bishop, the knight, and the pawn.
+
+Now let's learn the values of all the pieces. The pawn is the weakest piece in the chess board. It's also known as "the unit of value" in chess. So the strengths of the other pieces are measured by the number of pawns that they're worth. The knight is worth around three pawns. The bishop is also worth around three pawns. We'll talk more about this later. The knight and the bishop are both worth around three pawns, but they move very, very differently. In some positions, knights are stronger. In other positions, bishops are stronger; and you'll learn about these nuances in a little bit. For now, knight, three pawns; bishop, three pawns. The rook is a powerful piece. It's worth five pawns. The queen is the most powerful piece on the chess board. It's worth nine pawns. 
+
+  The king doesn’t really have a value that can be measured with pawns, because the king, though not so powerful, cannot be lost. The aim of the game is to capture the enemy king. So your king has infinite value, although not that much power.
+
+  

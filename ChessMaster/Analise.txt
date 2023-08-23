@@ -1,0 +1,57 @@
+
+1-Chessmaster é um Programa de Computador para Xadrez
+2-Lançamento : 30/10/2007 pela Ubisoft usando o motor gráfico The King ( O Rei ) de
+3-Requisitos Mínimos :
+Pentium III de 1 GHz
+RAM de 256 MB ou 512 MB recomendada
+Vídeo Directx 9.0c de 32 MB ou 128 MB recomendado
+Sistema Operacional : Windows
+Espaço : 600 MB ou 2.3 GB recomendado
+Som : Directx 9.0c 
+CD = 16x 
+Internet = 56Kbs 
+Periférico = Mouse, teclado, fone de ouvido, óculos ultra 3D ( não incluídos )
+
+Histórico :
+O nome é sempre Chessmaster + número
+O número posterior é o rating
+
+1986 = 2000 com 1600
+1988 = 2100 com 
+1989 = Chessmaster
+1991 = 3000 com 
+1994 = 4000 Turbo com 2179
+1993 = New Chessmaster
+1995 = 3-D
+1995 = Critic's Choice Strategy Collection
+1996 = 5000 com 2287
+1996 = Online
+1997 = 5500 com 
+1998 = 6000 com 2477
+1999 = Chessmaster 
+1999 = II
+1999 = 7000 com 
+1999 = 6 Great Games II Windows 98
+2000 = 8000 com 2519
+2001 = Gold Games 5
+2002 = Chessmaster
+2002 = Chessmaster
+2002 = 9000 com 2718
+2003 = Chessmaster
+2004 = Chessmaster
+2004 = 10th Edition com 
+2005 = Challenge
+2007 = GrandMaster Edition com 2858
+2007 = The Art of Learning
+2008 = Live
+
+Mods :
+https://web.archive.org/web/20161105155004/https://forums.ubi.com/showthread.php/341421-Chessmaster-Grandmaster-Edition-Downloads-Forums
+
+Verifiquei 
+https://www.chessprogramming.org/Chessmaster
+https://www.chessprogramming.org/The_King
+https://gamereqs.com.br/game/chessmaster-grandmaster-edition/
+https://en.wikipedia.org/wiki/Chess_engine
+https://en.wikipedia.org/wiki/Swedish_Chess_Computer_Association
+https://pt.wikipedia.org/wiki/Chessmaster
