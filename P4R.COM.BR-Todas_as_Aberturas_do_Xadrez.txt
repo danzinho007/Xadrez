@@ -1,0 +1,161 @@
+      
+      
+      
+      
+      
+      
+ TODAS AS 
+ABERTURAS 
+DO XADREZ 
+      
+      
+      
+      
+      
+
+
+           
+    
+    
+    
+      Christopher Conkie 
+    
+    
+    
+
+
+                                                                                       P4R.COM.BR 
+                                                                               O site do Xadrez - 2/411 
+{A00   Abertura Anderssen}1.a3 
+ 
+{A00   Abertura Creepy Crawly (Basman)}1.a3 e5 2.h3 d5 
+ 
+{A00   Abertura Ware (Feno do Prado)}1.a4 
+ 
+{A00   Abertura Crab}1.a4 e5 2.h4 
+ 
+{A00   Ataque Durkin}1.Na3 
+ 
+{A00   Abertura Dunst (Sleipner-Heinrichsen-Van Geet)}1.Nc3 
+ 
+{A00   Abertura Dunst (Sleipner-Heinrichsen-Van Geet): 1...Cf6}1.Nc3 Nf6 
+ 
+{A00   Abertura Dunst (Sleipner-Heinrichsen-Van Geet): 1...Cf6 2.Cf3}1.Nc3 Nf6 2.Nf3 
+ 
+{A00   Abertura Dunst (Sleipner-Heinrichsen-Van Geet): Gambito Tübingen}1.Nc3 Nf6 2.g4 
+ 
+{A00   Abertura Dunst (Sleipner-Heinrichsen-Van Geet): 1...e5}1.Nc3 e5 
+ 
+{A00   Abertura Dunst (Sleipner-Heinrichsen-Van Geet): 1...e5 2.Cf3}1.Nc3 e5 2.Nf3 
+ 
+{A00   Abertura de Battambang}1.Nc3 e5 2.a3 
+ 
+{A00   Abertura Dunst (Sleipner-Heinrichsen-Van Geet): Variante Siciliana}1.Nc3 c5 
+ 
+{A00   Abertura Novosibirsk}1.Nc3 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qh4 
+ 
+{A00   Abertura Dunst (Sleipner-Heinrichsen-Van Geet): Variante Siciliana, 2.Cf3}1.Nc3 c5 2.Nf3 
+ 
+{A00   Abertura Dunst (Sleipner-Heinrichsen-Van Geet): Variante Siciliana, 2.Cf3 Cc6}1.Nc3 c5 2.Nf3 Nc6 
+ 
+{A00   Abertura Dunst (Sleipner-Heinrichsen-Van Geet): 1...d5}1.Nc3 d5 
+ 
+{A00   Abertura Dunst (Sleipner-Heinrichsen-Van Geet): 1...d5 2.Cf3}1.Nc3 d5 2.Nf3 
+ 
+{A00   Abertura Dunst (Sleipner-Heinrichsen-Van Geet): 1...d5 2.Cf3 Cf6}1.Nc3 d5 2.Nf3 Nf6 
+ 
+{A00   Abertura Dunst (Sleipner-Heinrichsen-Van Geet): 1...d5 2.e4}1.Nc3 d5 2.e4 
+ 
+{A00   Abertura Dunst (Sleipner-Heinrichsen-Van Geet): 1...d5 2.e4 d4}1.Nc3 d5 2.e4 d4 
+ 
+{A00   Abertura Dunst (Sleipner-Heinrichsen-Van Geet): 1...d5 2.e4 dxe4}1.Nc3 d5 2.e4 dxe4 
+ 
+{A00   Abertura Dunst (Sleipner-Heinrichsen-Van Geet): Gambito Hector}1.Nc3 d5 2.e4 dxe4 3.Bc4 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango)}1.b4 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Ataque Macho Alfa, Variante Simagin}1.b4 a5 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Gambito de Birmingham}1.b4 c5 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Variante Bucker}1.b4 Na6 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Defesa Aasum}1.b4 Nc6 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): 1...Cf6}1.b4 Nf6 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): 1...Cf6 2.Bb2}1.b4 Nf6 2.Bb2 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): 2...d5}1.b4 Nf6 2.Bb2 d5 3.e3 e6 4.b5 c5 5.Nf3 Bd6 
+6.c4 Nbd7 7.Be2 O-O 8.O-O 
+ 
+
+
+                                                                                       P4R.COM.BR 
+                                                                               O site do Xadrez - 3/411 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Variante Gligoric-Smyslov, 1...Cf6 2.Bb2 e6}1.b4 Nf6 
+2.Bb2 e6 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Variante Gligoric-Smyslov, 1...Cf6 2.Bb2 e6 3.b5}1.b4 
+Nf6 2.Bb2 e6 3.b5 d5 4.e3 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): 2...g6}1.b4 Nf6 2.Bb2 g6 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Variante Baioneta, 2...g6 3.g4}1.b4 Nf6 2.Bb2 g6 3.g4 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Variante Karniewski-Tübingen}1.b4 Nh6 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Variante Fora do Flanco, 1...c6}1.b4 c6 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Variante Fora do Flanco, Defesa Da Asa}1.b4 c6 
+2.Bb2 a5 3.a3 axb4 4.axb4 Rxa1 5.Bxa1 Qb6 6.c3 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Gambito Schühler}1.b4 c6 2.Bb2 a5 3.b5 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): 1...d5}1.b4 d5 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): 1...d5 2.Bb2}1.b4 d5 2.Bb2 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Defesa Roczniak}1.b4 d5 2.Bb2 d4 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): 1...d5 2.Bb2 Bf5}1.b4 d5 2.Bb2 Bf5 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Variante Golombek}1.b4 d5 2.Bb2 Nf6 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Variante Golombek, 1...d5 2.Bb2 Cf6 3.e3}1.b4 d5 
+2.Bb2 Nf6 3.e3 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): 1...e5}1.b4 e5 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Ataque Bugayev}1.b4 e5 2.a3 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Orangotango à Baioneta}1.b4 e5 2.b5 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): 1...e5 2.Bb2}1.b4 e5 2.Bb2 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Gambito Wolfertz}1.b4 e5 2.Bb2 c5 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Variante Taimanov, 1...e5 2.Bb2 d6}1.b4 e5 2.Bb2 d6 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): 1...e5 2.Bb2 f6}1.b4 e5 2.Bb2 f6 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Ataque Bugayev, 1...e5 2.Bb2 f6 3.a3}1.b4 e5 2.Bb2 
+f6 3.a3 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Ataque Bugayev, Variante Katalymov 1...e5 2.Bb2 f6 
+3.b5}1.b4 e5 2.Bb2 f6 3.a3 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Gambito Schiffler-Tartakower}1.b4 e5 2.Bb2 f6 3.e4 
+Bxb4 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Gambito Schiffler-Tartakower, Variante Brinckmann 
+4...Cc6}1.b4 e5 2.Bb2 f6 3.e4 Bxb4 4.Bc4 Nc6 5.f4 Qe7 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Gambito Schiffler-Tartakower, Variante Brinckmann 
+4...Cge7}1.b4 e5 2.Bb2 f6 3.e4 Bxb4 4.Bc4 Ne7 5.Qh5+ g6 6.Qh4 
+ 
+{A00   Abertura Polonesa (Sokolsky-Orangotango): Variante De Troca, 2...Bxb4}1.b4 e5 2.Bb2 Bxb4 
+ 
+
+
+

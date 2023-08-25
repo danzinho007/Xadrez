@@ -138,34 +138,70 @@ G1 03 Niko = 57
 G1 02 Pete = 37
 G1 01 Cassie = 23
 
-D
-Daniel CP =
-Darcy 410 = Worries about opponent's queen 1/1/0
-Dave 1817 = Favors knights 
-Di Bona = 
-Diana 1392 = Defensive, trade qeens 0/0/1
-Dinara Saduakassova WE =  
-Ding Liren Cp = 
-Dobie 2147 = 
-Doc 2226 = 
-Dorsa Deakhshani CP =
-Duke = 1/0/1 
-Dylan 1651 = 
+24/08 = 
+Daniel = perdi
+Darcy = venci 1
+Dave = perdi 2
+Diana = perdi 3
+Dinara = venci 2 Travou lance 4
+Ding Liren = perdi 4
+Dobie = perdi 5
 
-E
-Eddie G2 = 
-Elijah G3 = 
-Ella G2 = 
-Erica G3 = 
+25/08 :
+Doc = perdi 1
+Dorsa = perdi 2
+Duke = perdi 3
+Dylan = perdi 4
+
+-D
+--Daniel CP = Minha Personaliade !!! Editar !!!
+0/0/1 
+--Darcy 410 G1 = Worries about opponent's queen 
+2/1/0
+--Dave 1825 G4 = Favors knights 
+0/0/1
+-Di Bona = Não tem características, só foto 
+-Diana 1397 G3 = Defensive, trade qeens
+0/0/2
+-Dinara Saduakassova WE =  
+1/0/0
+-Ding Liren CP = 
+0/0/1
+-Dobie 2147 G5 = 
+0/0/1
+-Doc 2255 G5 = 
+0/0/1
+-Dorsa Deakhshani CP =
+0/0/1
+-Duke 921 G2 = Tries to mimic GM Alekhine
+1/0/2
+-Dylan 1673 G4 = Balanced
+0/0/1
+
+26/08 :
+Elijah = 
+Ella = 
+Eric =
 Euwe = 
-Evan = 
 Evans = 
 
-Einstein = 
-Eric = 
+-Eddie 949 G2 = Tries to get rid of enemy knights
+0/0/3
+-Einstein = Não achei
+-Elijah 1431 G3 = 
+-Ella 973 G2 = Neglects pawn 
+1/0/2
+-Eric 1365 G3 = 
+-Euwe GM = 
+-Evans GM = 
 
 F
 Fine = 
+Fischer = 
+Flohr = 
+Frederic = 
+Fine = 
+Firozja = 
 Fischer = 
 Flohr = 
 Frederic = 
