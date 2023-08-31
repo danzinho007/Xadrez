@@ -1,0 +1,21 @@
+01
+
+02
+Starting in the corners, are the strong pillars of the castle, the Rooks. Rooks move horizontally along ranks and vertically along files. They do their best work on a board with open files.
+
+03
+Next to the Rooks, riding into the castle, are the Knights. The Knight's movement is always L-shaped: two squares forward plus one square to the left or right, or to put it another way, one square forward plus one square diagonally. The Knight is the only piece that can jump over other pieces. Its play is strongest from the center of the board where it can attack the most squares.
+
+04
+Next to the Knights are the Bishops, positioned to be the trusted advisors to the King and Queen. Bishops always move diagonally. Each side has one Bishop that always remains on the light squares and one Bishop that always remains on the dark squares. The Bishop's strength is in its ability to sneak behind enemy lines.
+
+05
+Next to the Bishop stands the Queen. The White Queen always starts on a light square and the Black Queen always starts on a dark square. The Queen is the most powerful piece on the board. She combines the movement of the Rook with the movement of the Bishop, travelling horizontally along ranks, vertically along files, and diagonally.
+
+06
+The last piece on the outer ranks is the King. The King is the most important piece in the game. The player whose King becomes checkmated loses the game. Kings can move one square in any direction. In general, the King remains protected during the first part of the game and joins in the battle during the endgame.
+
+07
+On the rank in front of the Chess pieces stand the 8 Pawns. On a Pawn's first move it can move either one or two squares forward. Thereafter it can move only one square forward at a time. Pawns capture one square diagonally. Pawns are the least powerful on the board, but at the same time, can make the difference between winning or losing a game.
+
+08

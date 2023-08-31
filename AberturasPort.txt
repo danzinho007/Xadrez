@@ -1,0 +1,445 @@
+Aberturas Estudadas :
+
+-Ataque Trompowsky 
+1.d4 Cf6 2.Bg5
+
+-Defesa Siciliana Fechada VarTrad
+1.e4 c5 2.Cc3 Cc6 3.Cf3
+
+-DefSic VarLasker VarTrocas
+1.e4 c5 2.Cf3 Cc6 3.d4 cxd4 4.Cxd4 Cf6 5.Cc3 e5 6.Cxc6 bxc6 7.Df3
+
+-Ruy Lopez
+1.e4 e5 2.Cf3 Cc6 3.Bb5 a6 4.Ba4 b5 5.Bb3
+
+-Ruy Lopez Fechada
+1.e4 e5 2.Cf3 Cc6 3.Bb5 a6 4.Ba4 Cf6 5.O-O Be7 6.Te1 d5 7.Bb3 O-O 8.c3
+
+-JogoIta Def2Cav AtqCav
+
+-
+-
+-
+-
+-
+1.XX XX 2.XX XX 3.XX XX 4.XX XX 5.XX XX
+
+Aberturas :
+
+Números
+4 Cavalos Var Escocesa = 
+
+A
+Andersen = 1.a3
+Ataque Índia do Rei = 
+
+Battambang = 1.Nc3 e5 2.a3
+
+C
+Corn Stalk = 1.e4 a5
+Crab = 1.a4 e5 2.h4a4
+Dunst = Cc3 
+
+F 
+Francesa = 1.e4 e6
+Francesa Gamb Orthoschnapp = 1.e4 e6 2.c4 d5 3.cxd5 exd5 4.Db3
+Francesa Var Normal = 1.e4 e6 2.d4
+Francesa Var Steiner = 1.e4 e6 2.c4
+Francesa Atq Steinitz = 1.e4 e6 2.e5
+Francesa Var Bird = 1.e4 e6 2.Bb5
+Francesa Var Reti = 1.e4 e6 2.b3
+Francesa Var LaBourdonnais = 1.e4 e6 2.f4
+Fred = 1.e4 f5
+
+J
+Jogo Escocês 
+Jogo Peão do Rei = 1.e4 e5
+
+Lemming = 1.e4 Ca6
+
+N 
+Nimzowitsch = 1.e4 Cc6 
+Nimzowitsch ContraColorador = 1.e4 Cc6 2.Cf3 f5
+Nimzowitsch Gamb Bielefelder = 1.e4 Nc6 2.d4 e5 3.dxe5 Bc5
+Nimzowitsch Gamb Wheeler = 1.e4 Cc6 2.b4
+
+P
+Peão do Rei = 1.e4
+Pirc = 1.e4 d6 2.d4
+Polonesa = 1.b4
+Polonesa Atq MachoAlfa = 1.b4 a5
+Polonesa Gmbt Birmingham = 1.b4 c5
+Polonesa Var Bucker = 1.b4 Ca6
+
+S
+Siciliana = 1.e4 Bc4
+            1.e4 c5
+Siciliana Gamb Asa = 1.e4 c5 2.b4
+Siciliana Gamb Asa Var Carlsbad = 1.e4 c5 2.b4 cxb4 3.a3 bxa3
+Siciliana Gamb Asa Var Marieband = 1.e4 c5 2.b4 cxb4 3.a3 d5 4.exd5 Dxd5 5.Bb2
+Siciliana Gamb Asa Var Marshall = 1.e4 c5 2.b4 cxb4 3.a3
+Siciliana Gamb Asa Var Santasiere = 1.e4 c5 2.b4 cxb4 3.c4
+Siciliana Mengarini = 1.e4 c5 2.a3
+Siciliana Pterodáctilo Acelerada = 1.e4 c5 2.Nf3 g6 3.d4 Bg7 4.c4
+Siciliana Snyder = 1.e4 c5 2.b3
+Siciliana Var Keres = 1.e4 c5 2.Ne2
+
+W
+Waren = 1.a4 
+
+Abertura Primária :
+
+a3 Abertura Andersen
+a4 Abertura Waren
+b3 Abertura Larsen 
+b4 Abertura Sokolsky / Polonesa / Orangotango
+c3 Abertura Saragossa
+c4 Abertura Inglesa
+Ca3 Abertura Durkin / Ataque Sódio
+Cc3 Abertura Van Geet / Dunst
+d3 Abertura Mieses / Venezuelana / Valencia
+d4 Abertura Peão Dama
+71 = Cf3 Abertura Reti
+72 = Ch3 Abertura Amar 
+73 = e3 Abertura Vant Krujis
+74 = e4 Abertura do Peão do Rei
+75 = f3 Abertura Barnes
+76 = f4 Abertura do Pássaro
+77 = g3 Fianqueto do Rei
+78 = g4 Abertura Grob
+79 = h3 Abertura Clemenz
+80 = h4 Desprez
+
+Defesa Secundária :
+OBS : irei ignorar variações simétricas
+
+a3 = Não
+https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._a3
+a4 = Não
+https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._a4
+Ca3 = Não
+https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._Na3
+Cc3 e5 e4 = Jogo Vienna
+b3 b5 Atq Larssen Var Polonesa = OK
+b3 c5 Atq Larssen Var Inglesa = OK
+b4 a5 Ab Sokolsky AtqMachoAlfa VarSimagin = OK
+b4 c5 Ab Sokolsky GamBirmingham = OK
+b4 Ca6 Ab Sokolsky VarBucker = OK
+b4 Cc6 Ab Sokolsky DefAasum = OK
+b4 f5 Ab Sokolsky VarNajdorf
+c4 b5 Ab Inglesa GambJãnish
+c4 d5 Ab Inglesa Vector
+c4 c6 Ab Inglesa DefCaroKann = ???
+c4 Cf6 Ab Inglesa AngloIndia = ???
+c4 c5 Ab Inglesa Simétrica Var Simétrica = ???
+c4 e5 Ab Ing Var Rei Inglês
+c4 f5 Ab Inglesa Anglo-Holandesa
+
+Cc3 c5 Ab Dunst Sleipner Var Siciliana
+Cf3 g5 Ab Reti Gamb Herstrom
+
+Abertura Terciária :
+c4 c5 Cc3    = Ab Inglesa Simétrica
+c4 c5 Cc6    = Ab Inglesa Simétrica
+c4 Cf6 b4    = Ab Inglesa Anglo-India Polonesa
+c4 f5 g4     = Ab Inglesa Gamb Wade
+Cc3 c5 Cf3   = Ab Dunest Var Siciliana
+Cc3 e5 a3    = Ab Battambang
+Cf3 c5 b3    = Ab Reti Nimzowitsch-Larsen
+Cf3 Cf6 b4   = Ab Reti Loucura de Santasiere
+Cf3 d5 Rg1   = Ab Reti Var Ampel
+
+Abertura Quaternária :
+c4 c5 Cc3 Cc6 = Ab Inglesa Fechada
+c4 Cf6 Cc3 d5 = Ab Inglesa Anglo-Grunfeld 
+c4 e5 Cc3 Cf6 = Ab Inglesa do Rei
+c4 e5 Cf3 e4  = AbInglesa Dir Nimzowitsch Var Flohr
+c4 g5 d4 Bg7  = Ab Inglesa Gam Myers
+c4 g6 e4 e5   = Ab Inglesa Def Andorjan
+
+?? = d4 c5 Defesa Velho Benoni
+?? = d4 f5 Defesa Holandesa
+?? = d4 g6 Defesa Moderna
+?? = e4 c5 Defesa Siciliana
+?? = e4 c6 Defesa Caro-Kann
+?? = e4 Cf6 Defesa Alekhine
+?? = e4 d5 Defesa Escandinávia
+?? = e4 d6 Defesa Pirc
+?? = e4 e6 Defesa Francesa
+
+Variação Terciária :
+
+?? = Cf3 d5 c4 Ab Réti Gambito Réti
+?? = d4 Cf6 Bg5 Ataque Trompowsky
+?? = e4 c5 Cc3 Def Sic Fechada
+
+////////////////////////////////////
+
+Inglês :
+
+a3 = Anderssen's Opening
+a4 = Ware Opening
+a4 e5 h4 = Crab 
+
+b3 = Nimzowitsch-Larsen Attack
+b3 b5 = Nimzowitsch-Larsen Attack Polish Variation
+b3 b6 = Nimzowitsch-Larsen Attack Symmetrical Variation
+b3 c5 = Nimzowitsch-Larsen Attack English Variation
+b3 d5 = Nimzowitsch-Larsen Attack Classical Variation
+b3 e5 = Nimzowitsch-Larsen Attack Modern Variation
+b3 f5 = Nimzowitsch-Larsen Attack Dutch Variation
+b3 Nf6 = Nimzowitsch-Larsen Attack Indian Variation
+
+b4 = Polish Opening
+b4 c4 = Polish Opening Outflank Variation
+b4 d5 Bb2 d4 Nf3 c5 = Polish Opening Labahn Gambit 
+b4 e5 Bb2 f6 e4 Bxb4 = Polish Opening Polish Gambit
+b4 e5 e4 Bxb4 f4 exf4 = Polish Opening Lewin Double Gambit
+b4 e6 Bb2 f5 e4 = Polish Opening Schiffler Gambit
+b4 Nh6 = Polish Opening Tuebingen Variation
+
+c3 = Saragossa Opening
+c3 e5 e4 Nc6 f4 = Saragossa Opening Bending Gambit
+c3 f5 f4 e6 e4 fxe4 d3 = Saragossa Opening Hempel Gambit
+
+c4 = English Opening
+c4 e5 = English Opening Bremen
+c4 e5 Nc3 = English Opening Reversed Sicilian
+c4 e5 Nc3 Nf6 = English Opening Two Knights Variation
+c4 e5 Nc3 Nf6 Nf3 e4 Ng5 b5 = English Opening Bellon Gambit
+c4 e5 Nc3 Nf6 g3 d5 = English Opening Reverse Dragon
+c4 e5 Nc3 Nf6 g3 Bb4 = English Opening Symyslov System
+c4 e5 Nc3 BB4 = English Opening Krammik Counter
+c4 e5 Nc3 Nc6  = English Opening Reversed Closed Sicilian
+c4 e5 Nc3 Nc6 Nf3 = English Opening Reversed Closed Sicilian Three Knights System
+c4 e5 Nc3 Nc6 Nf3 Nf6 = English Opening Reversed Closed Sicilian Four Knights Variation
+c4 e5 Nc3 Nc6 Nf3 Nf6 g3 = English Opening Reversed Closed Sicilian Four Knights Variation Kingside Fianchetto
+c4 e5 Nc3 Nc6 Nf3 Nf6 a3 = English Opening Reversed Closed Sicilian Four Knights Variation Marini Variation
+
+d3 = Mieses Opening
+d3 c5 Nc3 Nc6 g3 = Mieses Opening Venezolana Opening
+d3 e5 Bd2 = Mieses Opening Valencia Opening
+
+d4 = Queen's Pawn Opening
+d4 d5 c4 = Queen's Gambit
+d4 d5 c4 c6 = Queen's Gambit Slav Defense
+d4 d5 c4 c6 Nf3 = Queen's Gambit Slav Defense Main Line
+d4 d5 c4 c6 Nf3 Nf6 Nc3 dxc4 a4 = Queen's Gambit Slav Defense Main Line Alapin Variation
+d4 d5 c4 c6 Nf3 Nf6 Nc3 dxc4 a4 Bf5 = Queen's Gambit Slav Defense Main Line Czech Defense
+d4 d5 c4 c6 Nf3 Nf6 Nc3 dxc4 a4 Bf5 e3 = Queen's Gambit Slav Defense Main Line Dutch Variation
+d4 d5 c4 c6 Nf3 Nf6 Nc3 dxc4 a4 Bf5 e3 e6 Bxc4 Bb4 O-O O-O Qe2 Ne4 g4 = Queen's Gambit Slav Defense Main Line Dutch Variation Samisch Variation
+
+e4 = Abertura Peão Rei
+e4 Cf6 = Defesa Alekhine
+
+e4 c5 = Defesa Siciliana
+e4 c5 Cc3 = DefSic Fechada
+e4 c5 Cc3 Cc6  = DefSic FechPrincipal
+e4 c5 Cc3 Cc6 Cf3 = DefSic FechPrincipal
+e4 c5 Cc3 Cc6 Cf3 d4 d6 =
+e4 c5 Cc3 Cc6 Cf3 d4 e6 = DefSicFech VarTaimanov
+e4 c5 Cc3 Cc6 Cf3 d4 e6 Bb5 Nge7
+e4 c5 Cc3 Cc6 Cf3 d4 e6 d4 cxd4 
+e4 c5 Cc3 Cc6 f4 =
+e4 c5 Cc3 Cc6 g3 =
+
+e4 e5 Ce2 = Abertura Alapin
+
+e4 e5 = Partida Aberta
+e4 e5 Cf3 = Partida Aberta
+e4 e5 Cf3 Cc6 = Partida Aberta
+e4 e5 Cf3 Cc6 Bb5 = Espanhola / RuyLopzes
+e4 e5 Cf3 Cc6 Bb5 a6 = RuyLopez DefMorphy
+e4 e5 Cf3 Cc6 Bb5 a6 Ba4 = Espanhola
+e4 e5 Cf3 Cc6 Bb5 a6 Ba4 Cf6 = Espanhola Def Morphy
+e4 e5 Cf3 Cc6 Bb5 a6 Ba4 Cf6 O-O = Espanhola
+e4 e5 Cf3 Cc6 Bb5 a6 Ba4 Cf6 O-O Be7 = Espanhola Sist Fechado
+e4 e5 Cf3 Cc6 Bb5 a6 Ba4 Cf6 O-O Be7 Re1 = Espanhola Sist Fechado
+e4 e5 Cf3 Cc6 Bb5 a6 Ba4 Cf6 O-O Be7 Re1 b5 = Espanhola Sist Fechado
+e4 e5 Cf3 Cc6 Bb5 a6 Ba4 Cf6 O-O Be7 Re1 b5 Bb3 = 
+e4 e5 Cf3 Cc6 Bb5 a6 Ba4 Cf6 O-O Be7 Re1 b5 Bb3 d6 = 
+e4 e5 Cf3 Cc6 Bb5 a6 Ba4 Cf6 O-O Be7 Re1 b5 Bb3 d6 c3 = 
+e4 e5 Cf3 Cc6 Bb5 a6 Ba4 Cf6 O-O Be7 Re1 b5 Bb3 d6 c3 O-O = 
+
+e4 e5 Cf3 Cc6 Bc4 = Abertura Bispo :ES
+e4 e5 Cf3 Cc6 Bc4 Bc5 = AbBispo BoiVar : ES
+e4 e5 Cf3 Cc6 Bc4 Bc5 Cc3 = JogoGiucoPiano : EU
+e4 e5 Cf3 Cc6 Bc4 Bc5 Cc3 = JogoGiucoPiano4Cavalos : EU
+
+e4 e5 Cf3 Cc6 Bc4 d6 = JogoItaliano : GU
+
+e4 e5 Cf3 Cc6 d4 d5 = : PU
+e4 e5 Cf3 Cc6 d4 d6 = : PY
+
+e4 e5 Cf3 d6 = Defesa Philidor : TU
+e4 e5 Cf3 d6 d4 Cf6 = DefPhi Var Nimzowitsch : WC
+e4 e5 Cf3 d6 d4 Cf6 dxe5 dxe5 Dxd8+ Rxd8 Cc3 = Defesa Pirc :
+
+e4 e5 Cf3 De7 = : WK
+
+Mais jogadas :
+
+e4 = 1.8m
+e4 c5 = 756k
+e4 c5 Nf3 = 571k
+e4 c5 Nf3 d6  = 233k
+e4 c5 Nf3 d6 d4 = 182k
+e4 c5 Nf3 d6 d4 cxd4 = 175k
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 = 166k
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6  = 163k 
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 = 158k
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 = 97k
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 = 21k
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 = 17k 
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 = 14k
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Be7 = 5k 
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Be7 Qf3 = 5k 
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Be7 Qf3 Qc7 = 3k
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Be7 Qf3 Qc7 O-O-O = 3k
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Be7 Qf3 Qc7 O-O-O Nbd7 = 2k 
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Be7 Qf3 Qc7 O-O-O Nbd7 g4 = 2k 
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Be7 Qf3 Qc7 O-O-O Nbd7 g4 b5 = 1,9k 
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Be7 Qf3 Qc7 O-O-O Nbd7 g4 b5 Bxf6 = 1,8k
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Be7 Qf3 Qc7 O-O-O Nbf7 g4 b5 Bxf6 Nxf6 = 1,4k 
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Be7 Qf3 Qc7 O-O-O Nbf7 g4 b5 Bxf6 Nxf6 g5 = 1,4k 
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Be7 Qf3 Qc7 O-O-O Nbf7 g4 b5 Bxf6 Nxf6 g5 Nd7 = 1,4k 
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Be7 Qf3 Qc7 O-O-O Nbf7 g4 b5 Bxf6 Nxf6 g5 Nd7 f5 = 1,1k 
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Be7 Qf3 Qc7 O-O-O Nbf7 g4 b5 Bxf6 Nxf6 g5 Nd7 f5 Bxg5+ = 519
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Be7 Qf3 Qc7 O-O-O Nbf7 g4 b5 Bxf6 Nxf6 g5 Nd7 f5 Bxg5+ Kb1 = 518
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Be7 Qf3 Qc7 O-O-O Nbf7 g4 b5 Bxf6 Nxf6 g5 Nd7 f5 Bxg5+ Kb1 Ne5 = 438
+
+e4 c5 Nf3 d6 Bb5+ = 25k
+e4 c5 Nf3 d6 c3 = 10k
+e4 c5 Nf3 Nc6 = 177k
+e4 c5 Nf3 e6 = 136k
+e4 c5 Nc3 = 79k
+e4 c5 c3  = 57k
+
+e4 e5 = 439k
+e4 e6 = 238k
+
+d4 = 1.2m
+Nf3 = 320m
+
+Inglês :
+
+a3 = Anderssen's Opening
+g3 = Benko Opening
+f4 = Bird System
+h3 = Clemenz Opening
+
+h4 = Deperez Opening
+Nc3 = Dunst Opening
+Na3 = Durkin's Attack
+c4 = English Opening
+
+f3 = Gedult's Opening
+g4 = Grob Opening
+
+Nf3 = King's Indian Attack
+e4 e5 Nf3 = King's Knight Opening
+e4 e5 = King's Pawn Game
+e4 = King's Pawn Opening
+d3 = Mieses Opening
+b3 = Nimzowitsch-Larsen Attack
+
+Nh3 = Paris Opening
+b4 = Polish Opening
+
+e4 e5 Nf3 Nc6 = Queen's Knight Variation
+d4 = Queen's Pawn Opening
+
+e4 e5 Nf3 Nc6 Bb5 = Ruy Lopez (Spanish)
+e4 e5 Nf3 Nc6 Bb5 a6 = Ruy Lopez (Spanish) Morphy Defense
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O = Ruy Lopez (Spanish) Morphy Defense Spanish Opening
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 = Ruy Lopez (Spanish) Morphy Defense Closed Defense
+
+c3 = Saragossa Opening
+a3 = Van't Krujis Opening
+a4 = Ware Opening
+
+[Event "Live Chess - chess"]
+[Site "Chess.com"]
+[Date "2023.08.14"]
+[Round "?"]
+[White "SGMDanMorishima"]
+[Black "Akha127"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "695"]
+[BlackElo "711"]
+[Termination "Akha127 venceu por xeque-mate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6 6. d4 exd4 7. Nxd4 Nxe4 8.
+O-O Nxd4 9. Qxd4 d5 10. Nc3 Be6 11. Nxe4 dxe4 12. Qxd8+ Rxd8 13. Bxe6 fxe6 14.
+Bg5 Be7 15. Bxe7 Kxe7 16. Rad1 Rxd1 17. Rxd1 g5 18. f3 exf3 19. gxf3 h5 20. Kg2
+Kf6 21. h4 gxh4 22. Kh3 Kg5 23. Rd7 c5 24. Re7 Rf8 25. Rxe6 Rxf3+ 26. Kh2 Kg4
+27. Re8 Rf2+ 28. Kh1 Kf3 29. Kg1 Rxc2 30. Rh8 Kg3 31. Rxh5 Rc1# 0-1
+
+[Event "Live Chess - chess"]
+[Site "Chess.com"]
+[Date "2023.08.14"]
+[Round "?"]
+[White "aalkandari3"]
+[Black "SGMDanMorishima"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "661"]
+[BlackElo "705"]
+[Termination "SGMDanMorishima venceu por tempo"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. d3 Nf6 5. Nc3 Be6 6. Bxe6 fxe6 7. Ng5 Nd4 8.
+O-O d5 9. f3 Qe7 10. h3 Nc6 11. Kh1 d4 12. Nb5 O-O-O 13. c3 dxc3 14. bxc3 a6 15.
+Na3 Nh5 16. c4 Qf6 17. Nc2 Ng3+ 18. Kg1 Nxf1 19. Qxf1 Bc5+ 20. Ne3 Bxe3+ 21.
+Bxe3 Nd4 22. h4 h6 23. g3 hxg5 24. Bxg5 Nxf3+ 25. Kg2 Nxg5 26. Qxf6 gxf6 27.
+hxg5 fxg5 28. g4 Rxd3 29. Rf1 Rd2+ 30. Kg3 Rxa2 31. Rf6 Re8 32. Rg6 Ra3+ 33. Kg2
+Rd8 34. Rf6 Rd2+ 35. Rf2 Ra1 36. Rxd2 b5 37. c5 c6 38. Rd6 Kc7 39. Rxe6 Ra2+ 40.
+Kf1 Ra4 41. Rxe5 Rd4 42. Ke2 Kd7 43. Ke3 Rb4 44. Rxg5 Ke6 45. Kf4 a5 46. Rg6+
+Kf7 47. Kf5 a4 48. e5 a3 49. e6+ Ke7 50. Rg7+ Ke8 51. e7 Kd7 52. Kf6 Rf4+ 53.
+Kg5 Re4 54. Kf6 Rxe7 55. Rxe7+ Kd8 56. Kf7 a2 57. Re1 Kd7 58. g5 b4 59. g6 b3
+60. Rd1+ Kc7 61. g7 b2 62. g8=Q a1=Q 63. Qg3+ Kc8 64. Qg8+ Kb7 65. Rxa1 bxa1=Q
+66. Qe8 Qf1+ 67. Kg8 Qg2+ 68. Kf7 Qf2+ 69. Kg7 Qxc5 70. Qe7+ Kb6 71. Qxc5+ Kxc5
+72. Kf6 Kd5 73. Kf5 c5 74. Kf4 c4 75. Ke3 Kc5 76. Kd2 Kd4 77. Kc2 c3 78. Kb1 Kd3
+79. Kc1 c2 80. Kb2 Kd2 81. Kb3 c1=Q 82. Kb4 Qh1 83. Kc4 Kc2 84. Kd4 Qh3 85. Kd5
+Kc3 86. Ke4 Kc4 87. Ke5 Kc5 0-1
+
+[Event "Live Chess - chess"]
+[Site "Chess.com"]
+[Date "2023.08.14"]
+[Round "?"]
+[White "Camilo1402"]
+[Black "SGMDanMorishima"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "671"]
+[BlackElo "696"]
+[Termination "SGMDanMorishima venceu por xeque-mate"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d5 (3... d6 4. d5 Nd4 5. Nxd4 exd4 6. e5 dxe5) 4. exd5
+e4 5. Bg5 Be7 6. Bxe7 Qxe7 7. Ne5 Nxe5 8. dxe5 Qxe5 9. f3 exf3+ 10. Be2 fxe2 11.
+Qxe2 Qxe2+ 12. Kxe2 Nf6 13. Nc3 O-O 14. Rhf1 Bg4+ 15. Kd2 Rae8 16. Rae1 Rxe1 17.
+Rxe1 Rd8 18. a4 c6 19. Ke3 cxd5 20. Rd1 d4+ 21. Kd3 dxc3+ 22. Kxc3 Rxd1 23. b4
+a6 24. h3 Be6 25. Kb2 b5 26. axb5 axb5 27. c3 h5 28. g3 g6 29. Kc2 Rd8 30. Kb2
+g5 31. Ka3 h4 32. gxh4 gxh4 33. Kb2 Nh7 34. c4 Bxc4 35. Kc3 f5 36. Kc2 f4 37.
+Kc3 f3 38. Kc2 f2 39. Kc3 f1=Q 40. Kb2 Re8 41. Kc3 Qf3+ 42. Kc2 Re2+ 43. Kc1
+Qf1# 0-1
+
+[Event "Live Chess - chess"]
+[Site "Chess.com"]
+[Date "2023.08.14"]
+[Round "?"]
+[White "SGMDanMorishima"]
+[Black "moezzorgui11"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "686"]
+[BlackElo "634"]
+[Termination "SGMDanMorishima venceu por xeque-mate"]
+
+1. e4 e5 2. Nf3 Qe7 3. d4 Nc6 4. Bb5 a6 5. Ba4 b5 6. Bb3 Bb7 7. d5 Nb4 8. Nc3
+O-O-O 9. a3 Nxd5 10. Nxd5 Qd6 11. O-O h6 12. Be3 g5 13. Bd2 Nf6 14. Re1 Nxe4 15.
+Rxe4 Bxd5 16. Bxd5 Qxd5 17. Rxe5 Qc5 18. Rxc5 Bxc5 19. Bc3 Rhe8 20. Bf6 Be7 21.
+Bxe7 Rxe7 22. Nd4 Rde8 23. Nf5 Re1+ 24. Qxe1 Rxe1+ 25. Rxe1 f6 26. Nxh6 d5 27.
+Nf5 c5 28. b4 c4 29. c3 Kd7 30. Re7+ Kc6 31. g3 g4 32. Kg2 d4 33. Nxd4+ Kd5 34.
+Nf5 Kc6 35. h3 gxh3+ 36. Kxh3 Kb6 37. Rf7 a5 38. Rxf6+ Ka7 39. g4 axb4 40. axb4
+Kb7 41. g5 Kc7 42. g6 Kd7 43. g7 Kc7 44. g8=Q Kd7 45. Qg7+ Kc8 46. Rf8# 1-0

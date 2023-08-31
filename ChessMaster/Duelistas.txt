@@ -1,54 +1,71 @@
 Duelistas :
-
 Nome Rating = : partidas
-Aaron 1452 = G3 : 1x
-Adam = G3 Undervaleues pieces (OK 02)
-Alekhine = G5 (OK 01)
-Alicia 1417 = G3 (OK 01)
-Amo 1464 = G3 (OK 01)
-Anders = G2 (OK 03)
-Anderssen = G5 (OK 01)
-Andersson CP = 
-Andre = G1 01 (OK 02)
-Andy = G3
-Annie = 
-Argyle = G2 (OK 04)
-Aronian CP = 
-Aronian Levon CP = 
-Ash = G3
-Audrey = G1 Defensive
-Averbakh CP = 
+
+-Aaron 1460 G3 = Positional player
+0/0/2
+-Adam G3 = Undervaleues pieces (OK 02)
+0/0/2
+-Alekhine GM = Tactician, attacker
+0/0/2
+-Alicia 1417 G3 = King safety
+0/0/2 
+-Amo 1472 G3 = Trader
+0/2/4
+-Anders G2 = 
+0/0/4
+-Anderssen GM = 
+0/0/2
+-Andersson CP = 
+0/0/2
+-Andre 317 G1 = Tries to surround opponent
+3/0/1
+-Andy 1328 G3 = Favours knights over bishops
+0/0/2
+-Annie = Não achei 
+?/?/?
+-Argyle G2 = 
+3/0/1
+-Aronian CP = 
+-Aronian Levon CP = 
+-Ash G3 = Doesn't trade 
+0/0/2
+-Audrey G1 = Defensive
+2/0/0
+-Averbakh CP =  
+0/0/2
 
 B
-Ben 84 G1 = Overlooks pawns : 3x
-Berry 1068 G3 = Plays for material : 2x
-Bird GM = Não irei jogar com GMs ainda 
-Blackburne GM =  Não irei jogar com GMs ainda 
-Bogie 1188 G3 = Controls center : 2x
-Botvinnik GM = Não irei jogar com GMs ainda 
-Buck 2430 G5 = 1x ( 23/08 perdi 1 )
-Buddy 1225 G3 = Play fast, takes draws : 1x
+-Ben 84 G1 = Overlooks pawns : 3x
+-Berry 1068 G3 = Plays for material : 2x
+-Bird GM = Não irei jogar com GMs ainda 
+-Blackburne GM =  Não irei jogar com GMs ainda 
+-Bogie 1180 G3 = Controls center :  
+1/2/3
+-Botvinnik GM = Não irei jogar com GMs ainda 
+-Buck 2430 G5 = : Falta !!!
+0/0/1
+-Buddy 1225 G3 = Play fast, takes draws : 1x
 
 C
-Cal 1526 G4 = King's pawn openings ( 23/08 perdi 4 )
-Capablanca GM = Não irei jogar com GMs / CP / WE ainda
-Carlsen CP = Não irei jogar com GMs / CP / WE ainda 
-Carrie 651 G2 = 3x
-Caruana CP = Não irei jogar com GMs / CP / WE ainda 
-Caruana F CP = Não irei jogar com GMs / CP / WE ainda
-Cassie 23  G1 = 7x
-Cassie #2 CP = 1x
-Charles 1453 G4 = 
-Chess Master CP = Não irei jogar com GMs / CP / WE ainda
-Chessmaster CP = 4x
-Chiburdanidze CP = Não irei jogar com GMs / CP / WE ainda
-Chigorin GM = Não irei jogar com GMs / CP / WE ainda
+-Cal 1526 G4 = King's pawn openings ( 23/08 perdi 4 )
+-Capablanca GM = Não irei jogar com GMs / CP / WE ainda
+-Carlsen CP = Não irei jogar com GMs / CP / WE ainda 
+-Carrie 651 G2 = 3x
+-Caruana CP = Não irei jogar com GMs / CP / WE ainda 
+-Caruana F CP = Não irei jogar com GMs / CP / WE ainda
+-Cassie 23  G1 = 7x
+-Cassie #2 CP = 1x
+-Charles 1453 G4 = 
+-Chess Master CP = Não irei jogar com GMs / CP / WE ainda
+-Chessmaster CP = 4x
+-Chiburdanidze CP = Não irei jogar com GMs / CP / WE ainda
+-Chigorin GM = Não irei jogar com GMs / CP / WE ainda
 Christian 1169 = Relentless attacker 2x  ( 23/08 perdi 2 )
-Christiansen GM = Não irei jogar com GMs / CP / WE ainda
-CM11 Archangel CP = Não irei jogar com GMs / CP / WE ainda
-Cole 1554 G4 = Vulnerable king ( 23/08 perdi 3 )
-Corzo = 
-Cute Kitty CP = Não irei jogar com GMs / CP / WE ainda
+-Christiansen GM = Não irei jogar com GMs / CP / WE ainda
+-CM11 Archangel CP = Não irei jogar com GMs / CP / WE ainda
+-Cole 1554 G4 = Vulnerable king ( 23/08 perdi 3 )
+-Corzo = 
+-Cute Kitty CP = Não irei jogar com GMs / CP / WE ainda
 
 Ordem de acordo com a Classificação / Rating  :
 
@@ -179,32 +196,31 @@ Dylan = perdi 4
 0/0/1
 
 26/08 :
-Elijah = 
-Ella = 
-Eric =
-Euwe = 
-Evans = 
+Elijah = perdi 1
+Ella = perdi 2
+Eric = perdi 3
+Euwe = perdi 4
+Evans = perdi 5
 
 -Eddie 949 G2 = Tries to get rid of enemy knights
 0/0/3
 -Einstein = Não achei
--Elijah 1431 G3 = 
+-Elijah 1429 G3 = 
 -Ella 973 G2 = Neglects pawn 
 1/0/2
--Eric 1365 G3 = 
+-Eric 1363 G3 = 
 -Euwe GM = 
 -Evans GM = 
 
-F
-Fine = 
-Fischer = 
-Flohr = 
-Frederic = 
-Fine = 
-Firozja = 
-Fischer = 
-Flohr = 
-Frederic = 
+27/08 Letra F
+-Fine GM = Prefers open games 
+perdi 1
+-Frederic 2690 G5 = perdi 1
+-Firouzja A CP = empatei
+-Firouzja CP = perdi 5
+-Fischer GM = perdi 3
+-Flohr GM =  perdi 4
+-Frederic = 
 
 G
 Geller = 

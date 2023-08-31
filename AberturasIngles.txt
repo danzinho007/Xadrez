@@ -1,0 +1,204 @@
+"Aberturas Inglês" 
+
+01- Alapin's Opening = Terciária
+02- Alekhine Defense = Dupla
+e4 Cf6
+03- Anderssen's Opening = Primária
+a3 01
+04- Anti-Veresov Variation = Quaternária
+05- Barnes Defense = Dupla
+e4 f6
+06- Benko Opening = Primária
+g3 17
+g3 h5 = Lasker Simul Special
+07- Benoni Defense = Dupla
+d4 c5
+08- Bird System = Primária
+f4 16
+f4 d5 = Dutch Variation
+f4 e5 = From's Gambit
+f4 g5 = Hobbs Gambit
+09- Bishop's Opening
+10- Blackburne Gambit
+
+11- Blackmar Diemer Gambit
+12- Burg Defense = Dupla
+e4 g5
+13- Caro-Kann Defense = Dupla
+e4 c6
+14- Center Counter Game = Dupla
+e4 d5
+15- Center Game
+16- Clemenz Opening = Primária
+h3 19
+17- Corn Stalk Defense = Dupla
+e4 a5
+18- Damiano Defense
+19- Deprez Opening = Primária
+h4 20
+20- Dresden Variation
+
+21- Dunst Opening = Primária
+Cc3 08
+Cc3 e5 = Dunst Opening 1.Cc3 e5
+22- Durkin's Attack = Primária
+Ca3 07
+23-Dutch Defense = Dupla
+d4 f5
+24- English Opening = Primária
+c4 06
+c4 b5 = Jaenisch Gambit
+c4 c5 = Symmetrical Variation
+c4 c6 = Caro-Kann Defense
+c4 Cf6 = Anglo-Indian Defense
+c4 e5 = Bremen
+c4 e6 = English Opening 1.c4 e6
+c4 f5 = Anglo-Dutch Defense
+c4 g6 = Great Snake Variation
+25- Englund Gambit = Dupla
+d4 e5 
+26- Euwe Defense
+27- Four Knights Opening
+28- Fred Defense = Dupla
+e4 f5
+29- French Defense = Dupla
+e4 e6
+30- Gedult's Opening = Primária
+f3 15
+
+31- Greco Defense
+32- Grob Opening = Primária
+g4 18
+33- Grunfeld Reversed
+34- Gunderam Defense
+35- Hippopotamus Defense
+36- Horwitz Defense = Dupla
+d4 e6
+37- Hungarian Defense
+38- Indian Defense = Dupla
+d4 Cf6
+39- Irsh or Chicago Gambit Accepted
+40- Italian Game
+
+41- King's Gambit
+42- King's Head Variation
+43- King's Indian Attack = Primária
+Cf3 11
+Cf3 Cf6 = Simmetrical Variation
+Cf3 d6 = Wade Defense
+Cf3 f5 = Dutch Variation
+Cf3 g5 = Herrstrom Gambit
+44- King's Pawn Opening = Primária
+e4 14
+45- King's Pawn Game = Dupla
+e4 e5
+46- Konstantinopolsky Opening
+47- Latvian Gambit
+48- Lemberg Countergambit
+49- Lemming Defense = Dupla
+e4 Ca6
+50- Leonardis Variation
+
+51- Levitsky Attack
+52- Lopez Variation
+53- Lowe Defense
+54- Lundin-Kevitz-Mikenas Defense
+55- Mason's Variation
+56- Mengarini's Variation
+57- Mieses Opening = Primária
+d3 09
+d3 e5 = Mieses Opening 1.d3 e5
+58- Modern Defense = Dupla
+d4 g6
+59- Napoleon's Opening
+60- Nimzowitsch Defense = Dupla
+e4 Cc6
+
+61- Nimzowitsch-Larsen Attack = Primária
+b3 03
+b3 c5 = Variante Inglesa
+b3 d5 = Classical Variation
+b3 f5 = Variante Alemã
+62- Paris Opening = Primária
+Ch3 12
+63- Petrovs's Defense
+64- Philidor's Defense
+65- Pird Defense = Dupla
+e4 d6
+66- Polish Defense = Dupla
+d4 b5
+67- Polish Opening = Primária
+b4 04
+68- Ponziani Opening
+69- Queen's Fianchetto = Dupla
+e4 b6
+70- Queen's Gambit
+
+71- Queen's Knight Variation
+72- Queen's Pawn Counter-Gambit
+73- Queen's Pawn Game = Dupla
+d4 d5
+74- Queens Pawn Opening = Primária
+d4 10
+75- Rat = Dupla
+d4 d6
+76- Richter Veresov Attack
+77- Robatsch Defense = Dupla
+e4 g6
+78- Rousseau Gambit
+79- Ruy Lopez (Spanish)
+80- Saragossa Opening = Primária
+c3 05
+
+81-Sarratt Attack
+82-Schlechter Variation
+83-Schlechter Gambit
+84-Scotch Game
+85-Sicilian Defense = Dupla
+e4 c5
+86-St. George Defense = Dupla
+e4 a6
+87-Steinitz Variation
+88-Stonewall Attack
+89-Tayler Opening
+90-Three Knights Game
+
+91-Three Knights Opening
+92-Two Knights Defense
+93-Van't Krujis Opening = Primária
+e3 13
+94-Vienna Game
+95-Ware Opening = Primária
+a4 02
+96-Winawer Defense (Gothic Defense)
+
+
+Cc3 e5 = Abertura Dunst 1.Cc3 e5
+
+Cf3 Cf6 = AtqIndRei Variação Simétrica
+Cf3 d6 = Defesa Wade
+Cf3 f5 = Abertura Holandesa
+Cf3 g5 = Gambito Herrstrom
+
+e4 a5 = Defesa Corn Stalk
+e4 a6 = Defesa St George
+e4 b6 = Fianqueto da Rainha
+e4 c5 = Defesa Siciliana
+e4 c6 = Defesa Caro-Kann
+e4 Ca6 = Defesa Lemming
+e4 Cc6 = Defesa Nimzowitsch
+e4 Cf6 = Defesa Alekhine
+e4 d5 = Jogo Central Caunterado
+e4 d6 = Defesa Pirc
+e4 e5 = Jogo Peão Rei
+e4 e6 = Defesa Francesa
+e4 f5 = Defesa Fred
+e4 f6 = Defesa Barnes
+e4 g5 = Defesa Borg
+e4 g6 = Defensa Robatsch
+
+f4 d5 = SistPáss > Variação Alemã
+f4 e5 = SistPáss > Gambito From
+f4 g6 = SistPáss > Gambito Hobbs
+
+g3 h5 = AbBenko > Lasker Simul Special

@@ -1,0 +1,24 @@
+The Rook 
+
+02
+Rooks are easily identified in a chess set by the fact that they usually resemble the tower of a castle.
+
+03
+In a chess game, the Rook moves horizontally along ranks, or vertically along files.
+
+04
+From this position on e5, the Rook can move to any of the highlighted squares. For example, it could move to e1, or it could move to c5.
+
+05
+Here's another Rook, this time on c6. Note the squares to which it can move. This time its movement is hindered by two of its own pieces, on c4 and e6. A Rook can never jump over one of its own pieces. We'll move this Rook to a6.
+
+06
+Now look at this Rook on f3 and the squares to which it can move. Its movement is hindered by one of its opponent's pieces, on f6. When one of your opponent's pieces lies in the path of your Rook, you may not jump over it, but you can capture it. When your Rook captures a piece, it moves to the square the piece was on. Let's capture the Pawn on f6. Rook takes Pawn.
+
+07
+The Rook is considered to be a strong piece because of its ability to travel long distances and attack multiple squares simultaneously.
+
+08
+In a game, the Rook is at its best when there are open files. In this set-up, note how much more space the Rook on b2 controls, compared to the Rook on h8.
+
+09

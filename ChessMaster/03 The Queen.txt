@@ -1,0 +1,21 @@
+The Queen
+
+02
+Queens can vary quite a lot in appearance from chess set to chess set, but she's usually the second in height next to the King, and is also easy to find because there's only one Queen of each color per set.
+
+03
+The Queen is the most powerful piece in your army. She combines the movements of both the Rook and the Bishop. Like a Rook, she can travel vertically along files or horizontally along ranks, and, like a Bishop, she can also travel diagonally.
+
+04
+From this position on e5, the Queen can move to any of the highlighted squares. For example, it could move to g7, e1, b5, or c3.
+
+05
+Here's another Queen, this time on c6. Note the squares to which it can move. This time its movement is hindered by three of its own pieces, on e6, f3 and b7. A Queen can never jump over one of its own pieces. We'll move this Queen to c3.
+
+06
+Now look at this Queen on f3 and the squares to which it can move. Its movement is hindered by two of its opponent's pieces, on c3 and c6. When one of your opponent's pieces lies in the path of your Queen, you may not jump over it, but you can capture it. When your Queen captures a piece, it moves to the square the piece was on. Let's capture the Bishop on c6. Queen takes Bishop.
+
+07
+As previously mentioned, the Queen is the most powerful of all pieces because of her ability to attack so many squares at once. In a game, a wise player is careful not to bring the Queen out too early.
+
+08

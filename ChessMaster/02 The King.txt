@@ -1,0 +1,24 @@
+01 The King
+
+02
+Kings can vary quite a bit in appearance from chess set to chess set, but in general, the King can be identified by the fact that it's the tallest piece. In many chess sets, the King also has a cross on top.
+
+03
+The King is the most important piece in your army. If you allow your King to be checkmated, you have lost the game. Checkmate means that your opponent can capture your King on the next move and there's nothing you can do about it. On the other hand, if you checkmate your opponent's King, you have won the game!
+
+04
+The King is a powerful figure, but not a fast-moving one. From any square he occupies, he can move only one square in any direction. For example, from the e5 square, the King can move straight ahead to the e6 square, right to the f5 square, backwards to the e4 square, left to the d5 square, or diagonally to the d6, f6, f4, or d4 squares.
+
+05
+Here are the squares to which this Black King on b7 can move. Note that it cannot move to the b8 or a6 squares. Neither the King, nor any of your other pieces can move to a square occupied by another one of your own pieces.
+
+06
+When one of your opponent's pieces lies in the path of your King, you may not jump over it, but you can capture it. The King can only capture an opponent's piece occupying a square next to him, and he cannot capture a piece if doing so puts him into check. Here, the King can capture the Knight on c6 and the pawn on d6, but he cannot capture the Rook on e4 because, with the Bishop on c2 guarding the Rook, capturing the Rook would put the King into check.
+
+07
+In most games, the King observes from the back lines. The rest of your pieces fight the battle and protect the King until near the end of the game. Then the King usually moves out to join the fight.
+
+08
+Now try moving a King and capturing with it in the following exercises.
+
+09

@@ -1,0 +1,189 @@
+01
+Creating Your Own Chessmaster Tutorials
+
+Tutorial Editor Structure
+
+The in-game tutorial editor is available in any Academy area. Use the File/New Tutorial menu command to display the editor.
+
+Here is the meaning of all editor components:
+1.	The upper bar displays the title of the tutorial (which is the same as the name of the saved .tut file).
+2.	The Save button saves the tutorial in a .tut file. Remember the name of the file is also the title displayed in-game, so use a very descriptive name.
+3.	The Play button executes the current tutorial page.
+4.	The Stop button cancels the currently executed tutorial.
+5.	The Label: edit box displays the label of the current page. You can also edit the label using this box.
+6.	The Page List displays all the pages of the tutorial. To select a different page, just click on it.
+7.	The Insert button inserts a new page before the currently selected page. 
+8.	The Add button adds a new page after the last page.
+9.	The Delete button deletes the currently selected page.
+10.	The Tags edit box contains all the “tags” – the instructions which tell Chessmaster how to move pieces, how to highlight board squares, how to draw arrows etc.
+11.	The Text edit box contains the text displayed in the description window of the tutorial. Parts of the displayed text may be written also in the Tags edit box, as part of complex tags.
+
+
+Criando seus próprios tutoriais de Chessmaster
+
+Estrutura do Editor do Tutorial
+
+O editor de tutoriais do jogo está disponível em qualquer área da Academia. Use o comando de menu Arquivo/Novo Tutorial para exibir o editor.
+
+Aqui está o significado de todos os componentes do editor:
+1. A barra superior exibe o título do tutorial (que é igual ao nome do arquivo .tut salvo).
+2. O botão Salvar salva o tutorial em um arquivo .tut. Lembre-se de que o nome do arquivo também é o título exibido no jogo, então use um nome bem descritivo.
+3. O botão Play executa a página atual do tutorial.
+4. O botão Parar cancela o tutorial atualmente executado.
+5. A caixa de edição Etiqueta: exibe a etiqueta da página atual. Você também pode editar o rótulo usando esta caixa.
+6. A Lista de Páginas exibe todas as páginas do tutorial. Para selecionar uma página diferente, basta clicar nela.
+7. O botão Inserir insere uma nova página antes da página atualmente selecionada.
+8. O botão Adicionar adiciona uma nova página após a última página.
+9. O botão Excluir exclui a página atualmente selecionada.
+10. A caixa de edição Tags contém todas as “tags” – as instruções que dizem ao Chessmaster como mover peças, como destacar casas do tabuleiro, como desenhar flechas, etc.
+11. A caixa de edição Texto contém o texto exibido na janela de descrição do tutorial. Partes do texto exibido também podem ser escritas na caixa de edição Tags, como parte de tags complexas.
+
+General Tutorials Structure
+
+Tutorials are split into pages. 
+Within a page, all instructions (tags) are executed sequentially, as entered. 
+
+When creating tutorials with sounds there is a slight different technique that should be used, which you can read about in the next paragraph.
+
+The best way to learn how to create your own tutorials is to study the existing tutorials, usually placed in chessmaster/data/tutorials.
+
+Using Sounds in Tutorials
+
+When you want to add speech (or any other sound) to the tutorial you should follow the following steps:
+1.	Create your sound files and save them in the same folder where your tutorial file lies. You can use either MP3 or WAV format for your sound files.
+2.	In the tutorial script, in the {W: }tag you will only place the filename without the extension. For example, if the file you want to play is called “mysound.mp3” you will code it in the script like this: {W:mysound}.
+3.	Note that the {W:} tag is an exception to the other tags, because it acts a bit different. Before launching the other instructions, Chessmaster puts together all the {W:} tags and creates a single large sound file which is played. All the other instructions are played in parallel (while the sound is playing). For example if you use this script:
+{D:3000}{S:a2a4}
+{W:mysound}
+The “mysound” file starts playing immediately, and after 3 seconds the move a2-a4 is made on the board while the sound is still playing.
+4.	When creating sound tutorials the key timing element should be the soundfiles. You should first edit the sounds. Afterwards, for each sound you include in the tutorial, insert the script that suits it before the {W:} tag. Your tutorial should look like this:
+{D:1000}{tag1}
+{D:1500}{tag2}		
+…
+{D:3000}{tagN}
+{W:sound1}		Tags 1 to N will be played over the “sound1” file
+{D:1000}{tagN+1}
+{D:1500}{tag2}
+…
+{D:3000}{tagM}
+{W:sound2}		Tags N+1 to M will be played over the “sound2” file
+……..
+      See the examples in Chessmaster for a better understanding of this technique.
+
+Estrutura Geral dos Tutoriais
+
+Os tutoriais são divididos em páginas.
+Dentro de uma página, todas as instruções (tags) são executadas sequencialmente, conforme inseridas.
+
+Ao criar tutoriais com sons, existe uma técnica ligeiramente diferente que deve ser usada, sobre a qual você poderá ler no próximo parágrafo.
+
+A melhor maneira de aprender como criar seus próprios tutoriais é estudar os tutoriais existentes, geralmente colocados em chessmaster/data/tutorials.
+
+Usando sons em tutoriais
+
+Quando quiser adicionar fala (ou qualquer outro som) ao tutorial você deve seguir os seguintes passos:
+1. Crie seus arquivos de som e salve-os na mesma pasta onde está o arquivo do tutorial. Você pode usar o formato MP3 ou WAV para seus arquivos de som.
+2. No script do tutorial, na tag {W:} você colocará apenas o nome do arquivo sem a extensão. Por exemplo, se o arquivo que você deseja reproduzir se chama “mysound.mp3”, você irá codificá-lo no script assim: {W:mysound}.
+3. Observe que a tag {W:} é uma exceção às outras tags, pois age de maneira um pouco diferente. Antes de iniciar as outras instruções, o Chessmaster reúne todas as tags {W:} e cria um único arquivo de som grande que é reproduzido. Todas as outras instruções são reproduzidas em paralelo (enquanto o som está sendo reproduzido). Por exemplo, se você usar este script:
+{D:3000}{S:a2a4}
+{W:meusom}
+O arquivo “mysound” começa a tocar imediatamente e após 3 segundos o movimento a2-a4 é feito no tabuleiro enquanto o som ainda está tocando.
+4. Ao criar tutoriais de som, o elemento chave de temporização deve ser os arquivos de som. Você deve primeiro editar os sons. Depois, para cada som incluído no tutorial, insira o script que mais lhe convém antes da tag {W:}. Seu tutorial deve ficar assim:
+{D:1000}{tag1}
+{D:1500}{tag2}
+…
+{D:3000}{tagN}
+{W:sound1} Tags 1 a N serão reproduzidas no arquivo “sound1”
+{D:1000}{tagN+1}
+{D:1500}{tag2}
+…
+{D:3000}{tagM}
+{W:sound2} Tags N+1 a M serão reproduzidas no arquivo “sound2”
+……..
+       Veja os exemplos no Chessmaster para uma melhor compreensão desta técnica.
+
+       Lista de tags de tutorial
+
+S: Deslizar
+{S:e2e4} move a peça de e2 para e4
+
+D: Atraso
+{D:400} atrasa o script em 400 ms
+
+H: Destaca os quadrados da lista (sem remover os quadrados de destaque anteriores)
+{H:h4} destaca o quadrado h4 com o tipo de destaque padrão
+{H2:h4} usa o tipo 2 de destaque
+{H:a1a2a3a4a5a6a7a8} destaca a segunda linha
+{H0:h4} limpa o destaque no quadrado h4
+
+N: Remova todos os destaques e destaque os quadrados na lista
+{N:h4} limpa todos os destaques e destaca o quadrado h4 com o tipo de destaque padrão
+{N2:h4} usa o tipo 2 de destaque
+{N:a1a2a3a4a5a6a7a8} limpa todos os destaques e destaca a segunda linha
+
+C: Limpa todos os quadrados destacados
+{C} limpa todos os quadrados destacados
+
+P: Cria uma peça regular de determinada cor em determinado quadrado
+{P:BNh6} cria uma noite negra na casa h6
+Os códigos de cores são: B para preto, W para branco
+Os códigos das peças são: K-rei, Q-rainha, R-Torre, B-bispo, N-cavaleiro, P – Peão
+Nota: Para colocar uma peça no mesmo quadrado de outra peça ou peça fantasma é necessário remover a existente.
+
+X: Remova um pedaço
+{X:f7} remove a peça em f7
+
+G: Cria uma peça fantasma de uma determinada cor em um determinado quadrado
+{G:BPd4} cria um peão preto (B) fantasma (P) na casa d4
+{G:WBc1} cria um bispo branco (W) fantasma (B) na casa c1
+Os códigos de cores são: B para preto, W para branco
+Os códigos das peças são: K-King, Q-Queen, R-Rook, B-Bishop, N-kNight, P – Pawn
+NOTA: Se já existir uma peça no quadrado especificado, a peça fantasma é aplicada sobre a peça normal. Ao usar a tag {O} a peça voltará ao normal. Se for aplicado sobre um quadrado vazio, ao usar a tag {O} a peça fantasma simplesmente desaparecerá.
+
+O: Limpa uma peça fantasma (ou todas elas)
+{O} limpa todas as peças fantasmas.
+{O:e4} limpa o fantasma de e4.
+
+A: Cria uma flecha
+{A:We1h1} cria uma seta branca de e1 a h1 (W é o estilo da seta)
+Os estilos atuais são:
+COR FINA GROSSA
+branco W A
+preto B E
+vermelho C M
+roxo XY
+verde G F
+azul T H
+amarelo K eu
+magenta LJ
+VERMELHO pontilhado: D (usado para alfinetes/espetos)
+
+
+
+R: Remove setas
+{R} remove todas as setas
+{R:e1h1} remove a seta entre e1 e h1
+
+
+PAUSA: pausa o tutorial (dando ao jogador tempo para pensar na posição)
+{PAUSA}
+
+
+Y: Gerenciamento de blocos:
+As operações dentro de um bloco serão executadas todas de uma vez.
+{Y:0}inicia um bloco
+{Y:1}termina um bloco
+Exemplo:
+{Y:0}{B:64}{P:WNb4}{P:WBc3}{G:WKa1}{A:Tb4c6}{Y:1}
+Este exemplo constrói a posição do tabuleiro e da seta e desenha tudo de uma vez.
+
+U: desfaça tudo
+{VOCÊ}
+
+K: coloca uma string na barra de status
+{K:Sicilian Defense} coloca a string "Sicilian Defense" na barra de status
+
+B: importar uma posição no conselho da Forsythe
+{B:16/2q1k3/1b3r2/3N4/1p3p2/2r1b3/8}
+Observação: você pode copiar a posição da placa Forsythe em uma tela de configuração de posição.
+{B:16/2q1k3/1b3r2/3N4/1p3p2/2r1b3/8 w} – Brancas para jogar

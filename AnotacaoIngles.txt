@@ -1,0 +1,20 @@
+Anotações Inglês
+
+e4
+The King's Pawn opening move is both popular and local.
+It controls the center, open lines for both the Queen and the Bishop, and usually leads to an open game in which tactics, rather than slow maneuvering, predominates.
+
+c5 
+The Sicilian Defense has an ancient lineage.
+It creates an unbalanced position in which both sides have full rein for play, and allow Black to call the shots at least to some extent
+
+Cc3
+The Closed Variation looks toward the fianchetto of the King's Bishop, restraining the Black d pawn in the meantime
+
+extent = 
+least = 
+maneuvering = 
+meantime = 
+rather = 
+rein = 
+restraining = 

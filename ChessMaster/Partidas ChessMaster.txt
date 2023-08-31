@@ -3,69 +3,9 @@ Xadrez Partidas
 Ordem de Rating ( Classificação )
 Nome ( Rating ) --- Nome V-E-D
 
-A
-Aaron 1454 = 1 > 2 ( 22/08 perdi 1 )
-Adam 1216 = OK 2 D
-Adms, M = Falta
-Akopian, V = Falta
-Alekhine GM = 1
-Alicia 1419 = 1 > 2 ( 22/08 perdi 2 )
-Amo 1466 = 1 > 2 ( 22/08 perdi 3 )
-Anand, V = Falta
-Anand GM = Falta
-Anders 859 = OK 3
-Anderssen, A = 1
-Anderssen GM = Falta
-Andersson CP = Falta
-Andre 317 = OK 3
-Andy 1323 = Falta
-Annie 1537 = Falta
-Argyle 844 = OK 4
-Aronian CP = Falta
-Aronian Levon CP = Falta
-Ash 1442 = 1 ( 22/08 perdi 4 )
-Audrey 463 = OK 2
-Avebakh CP = 1 ( 22/08 perdi 5 )
 
-B
-BeHarmon = 
-Ben = OK
-Bernstein, O = 
-Berry = OK
-Bird = 
-Blackburne = 
-Bledow = 
-Bogart = 
-Bogie = OK
-Bogolijubov = 
-Boi = 
-Boleslavsky = 
-Botvinnik = 
-Bronstein = 
-Buck = 
-Buddy 1224 = OK
 
-C
-Cal = 
-Capablanca = 
-Carlsen = 
-Carrie = OK
-Caruana = 
-Cassie = OK
-Cassie #2 = 
-Charles = 
-Chess Master = 
-Chessmaster = 
-Chiburdanidze = 
-Chigorin = 
-Christian = OK
-Christiansen = 
-Cm11 Archangel = 
-Cole = 
-Corzo = 
-Cute Kitty = 
 
-D
 Darcy = OK
 Dave = 
 Di Bona = 
