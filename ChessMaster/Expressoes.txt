@@ -1,0 +1,112 @@
+Expressões do Xadrez :
+
+Afogado
+Situação em que o jogador detentor do lance não tem nenhum movimento possível para ser executado, mas também não está em xeque. Neste caso é declarado o empate
+
+Ataque Descoberto
+É uma tática perigosa que você pode usar para surpreender seu oponente e vencer a partida. Aprenda o básico desta poderosa arma e esteja pronto para sua próxima batalha de xadrez!
+
+Ataque Duplo
+É uma tática fundamental no xadrez. Saber o que é e como tirar vantagem disso pode ser a diferença entre ganhar ou perder uma partida.
+
+Coroação
+Ocorre quando um peão atinge a 8ª casa do campo adversário, podendo se transformar em qualquer peça
+
+Cravada
+Situação em que uma peça não pode ou não deve ser movida por estar cumprindo a função de proteção para alguma outra peça. Pode ser 
+a) relativa: quando não devemos mover a peça para não perder uma de valor maior ou 
+b) absoluta: quando a peça não pode ser movida pois o rei ficaria em xeque (jogada ilegal).
+
+Desesperado
+É quando a peça vai sair no próximo lance, mas antes disso ela toma outra peça
+
+Desvio
+Perder uma peça em troca de ganhar outra dando xeque
+
+En Passant
+Captura o peão do oponente como se ele tivesse avançado apenas uma casa. Você move seu peão na diagonal para uma casa adjacente, indo para trás do peão do adversário que acabou de avançar duas casas e que é imediatamente removido do tabuleiro.
+
+Espeto
+Para usar o espeto, você ataca a coluna ou a diagonal onde as peças do oponente estão alinhadas. Em um espeto, a peça mais valiosa é atacada primeiro, então ela deve se mover e abrir caminho para que você capture a peça menos valiosa que está atrás dela.
+
+Fianqueto
+Ocorre quando um bispo é desenvolvido para a segunda fileira (para as Brancas) ou a sétima fileira (para as Negras) nas casas g2, g7, b2 ou b7. Este lance é feito para colocar o bispo na diagonal longa do tabuleiro.
+
+Forçar a partida
+Estratégia adotada quando se tem a intenção de vencer uma partida induzindo o adversário a erros.
+
+Fortaleza
+É uma técnica em que um jogador utiliza uma configuração específica de peças para montar uma defesa que não pode ser violada pelo adversário. Esta técnica defensiva impossibilita o avanço do atacante e força o empate.
+
+Garfo
+É uma tática extremamente simples que consiste em realizar um ataque a duas ou mais peças (em geral o lance envolve peças valiosas - Rei, Dama, Torre).
+
+Isca
+Atrair uma peça para onde ela não quer ir
+
+Jogo Aberto
+Um jogo aberto acontece quando a maioria dos peões no centro desaparecem, especialmente os peões d e e. Quando for esse o caso, as peças possuem linhas e diagonais organizadas para se movimentarem livremente.
+
+Jogo Fechado
+
+
+Jogo Semi-Fechado
+
+
+Mate Sufocado
+
+Notação Algébrica = Letra da Coluna + Número da Linha 
+Exemplo : e4
+
+Peça maior
+As peças maiores são as únicas que podem se mover por uma fileira ou coluna inteira em um único lance.
+São as peças capazes de realizar um xeque-mate em um Rei adversário solitário apenas com o auxílio do próprio Rei: Dama e Torre. 
+
+Peças menores 
+Bispo e cavalo são as peças menores.
+
+Peão Atrasado
+É aquele que não tem o apoio de outros peões (ou porque eles já avançaram ou porque não existem mais). Um peão atrasado não pode avançar sem ser capturado e quase sempre apoia outro peão em uma coluna adjacente
+
+Peão Passado
+É aquele que avançou além de todos os peões inimigos. Em outras palavras, um peão passado não possui peões inimigos à sua frente ou em colunas adjacentes que possam impedi-lo de ser promovido .
+
+Peões Dobrados
+Acontecem quando um peão captura uma peça inimiga e termina na mesma coluna que um peão aliado. Em geral, os peões dobrados são considerados uma fraqueza estrutural, mas às vezes a criação de peões dobrados pode ser benéfica.
+
+Peões passados ​​​​conectados 
+São peões que estão em colunas adjacentes entre si e não têm peões inimigos à sua frente sozinhos ou em colunas adjacentes. 
+
+Peões pendurados
+Acontece quando dois peões estão em colunas adjacentes, sem que nenhum outro peão seja capaz de protegê-los. 
+
+Qualidade
+Ganha-se a qualidade quando se obtém uma Torre em troca de uma peça menor (tanto Bispo quanto Cavalo). A Torre tem um valor absoluto de 5 pontos, enquanto as peças menores valem 3 pontos, de forma que “ganhar uma qualidade” garante uma boa vantagem material.
+
+Regra do Quadrado
+A regra da quadratura afirma que o rei pode pegar o peão se ele conseguir entrar na casa em seu próximo movimento. Se não for esse o caso, o peão pode chegar à casa de promoção antes que o rei chegue.
+
+Roque
+É um movimento especial em que o rei avança na direção da torre e a torre salta por cima do rei, nessa ordem. A ideia por trás do roque é proteger o rei ou combinar as torres.
+
+A travada consiste em impedir o movimento de peças do oponente. Qualquer peça pode ser travada mas apenas torres, bispos e a Dama podem travar devido a característica de seus movimentos. 
+
+Valor das Peças 
+Dama = 9
+Torre = 5
+Bispo e Cavalo = 3
+Peão = 1
+
+Xeque: Quando o rei é diretamente ameaçado, diz-se que está em xeque; se não tiver defesa, é xeque-mate e final de partida
+
+Xeque Descoberto
+É quando você move uma peça atacando outra e sai da frente da sua dando xeque
+
+Xeque Duplo
+Dar Xeque com 2 peças ao mesmo tempo
+
+Xeque-mate
+Ocorre quando alguma peça encontra-se em situação de ataque iminente ao rei adversário. Se não houver possibilidades de escape para o rei, ocorre o xeque-mate, dando a vitória ao jogador atacante. Dar xeque-mate é o objetivo do jogo de xadrez.
+
+Zwischenzug
+É quando o adversário espera que você jogue algo e perca peça, mas antes você da xeque no Rei

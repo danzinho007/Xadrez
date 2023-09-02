@@ -187,3 +187,4 @@ B: importar uma posição no conselho da Forsythe
 {B:16/2q1k3/1b3r2/3N4/1p3p2/2r1b3/8}
 Observação: você pode copiar a posição da placa Forsythe em uma tela de configuração de posição.
 {B:16/2q1k3/1b3r2/3N4/1p3p2/2r1b3/8 w} – Brancas para jogar
+
