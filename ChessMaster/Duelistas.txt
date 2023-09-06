@@ -35,23 +35,34 @@ Nome Rating = : partidas
 0/0/2
 
 B
--Ben 84 G1 = Overlooks pawns : 3x
--Berry 1068 G3 = Plays for material : 2x
--Bird GM = Não irei jogar com GMs ainda 
--Blackburne GM =  Não irei jogar com GMs ainda 
+-Ben 84 G1 = Overlooks pawns
+3/0/0
+-Berry 1068 G3 = Plays for material
+0/0/2
+-Bird GM = Attacker
+0/0/2
+-Blackburne GM = Tactician
+0/0/2
 -Bogie 1180 G3 = Controls center :  
-1/2/3
--Botvinnik GM = Não irei jogar com GMs ainda 
+1/2/4
+-Botvinnik GM = 
+0/0/2
 -Buck 2430 G5 = : Falta !!!
-0/0/1
--Buddy 1225 G3 = Play fast, takes draws : 1x
+0/0/2
+-Buddy 1220 G3 = Play fast, takes draws
+0/1/3
 
 C
--Cal 1526 G4 = King's pawn openings ( 23/08 perdi 4 )
--Capablanca GM = Não irei jogar com GMs / CP / WE ainda
--Carlsen CP = Não irei jogar com GMs / CP / WE ainda 
--Carrie 651 G2 = 3x
--Caruana CP = Não irei jogar com GMs / CP / WE ainda 
+-Cal 1526 G4 = King's pawn openings
+0/0/2
+-Capablanca GM = 
+0/0/2
+-Carlsen CP = 
+0/0/2
+-Carrie 651 G2 = 
+3/0/0
+-Caruana CP =
+0/0/2
 -Caruana F CP = Não irei jogar com GMs / CP / WE ainda
 -Cassie 23  G1 = 7x
 -Cassie #2 CP = 1x

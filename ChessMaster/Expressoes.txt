@@ -35,6 +35,9 @@ Ocorre quando um bispo é desenvolvido para a segunda fileira (para as Brancas) 
 Forçar a partida
 Estratégia adotada quando se tem a intenção de vencer uma partida induzindo o adversário a erros.
 
+Forquilha
+ocorre quando uma peça ataca uma peça do oponente que tem uma peça menos valiosa atrás dela, e que pode ser capturada assim que a da frente se mover. A forquilha pode ser considerada uma cravada invertida porque a peça mais valiosa é a que está em perigo imediato.
+
 Fortaleza
 É uma técnica em que um jogador utiliza uma configuração específica de peças para montar uma defesa que não pode ser violada pelo adversário. Esta técnica defensiva impossibilita o avanço do atacante e força o empate.
 
@@ -48,15 +51,33 @@ Jogo Aberto
 Um jogo aberto acontece quando a maioria dos peões no centro desaparecem, especialmente os peões d e e. Quando for esse o caso, as peças possuem linhas e diagonais organizadas para se movimentarem livremente.
 
 Jogo Fechado
-
+Cavalos melhores que Bispos
 
 Jogo Semi-Fechado
-
 
 Mate Sufocado
 
 Notação Algébrica = Letra da Coluna + Número da Linha 
 Exemplo : e4
+
+Notação Avançada
+Captura = x ( Ex exd5 )
+Roque grande = 0-0-0
+Roque pequeno = 0-0
+Xeque = + 
+Xeque-mate = #
+
+Notação Lances
+Excelente = !!
+Bom  = !
+Ruim = ?
+Interessante = !?
+Duvidoso = ?!
+
+Notação Partida
+Brancas vencem = 1-0
+Negras vencem = 0-1
+Empate = 1/2-1/2
 
 Peça maior
 As peças maiores são as únicas que podem se mover por uma fileira ou coluna inteira em um único lance.
