@@ -63,108 +63,33 @@ C
 3/0/0
 -Caruana CP =
 0/0/2
--Caruana F CP = Não irei jogar com GMs / CP / WE ainda
--Cassie 23  G1 = 7x
--Cassie #2 CP = 1x
--Charles 1453 G4 = 
--Chess Master CP = Não irei jogar com GMs / CP / WE ainda
--Chessmaster CP = 4x
--Chiburdanidze CP = Não irei jogar com GMs / CP / WE ainda
--Chigorin GM = Não irei jogar com GMs / CP / WE ainda
-Christian 1169 = Relentless attacker 2x  ( 23/08 perdi 2 )
--Christiansen GM = Não irei jogar com GMs / CP / WE ainda
--CM11 Archangel CP = Não irei jogar com GMs / CP / WE ainda
--Cole 1554 G4 = Vulnerable king ( 23/08 perdi 3 )
+-Caruana F CP = 
+0/0/2
+-Cassie 23  G1 = 
+5/1/2
+-Cassie #2 CP = 
+0/0/2
+-Charles 1543 G4 = 
+0/0/2
+-Chess Master CP = 
+0/0/2
+-Chessmaster CP = não achei
+
+-Chiburdanidze CP = 
+0/0/2
+-Chigorin GM = 
+
+Christian 1169 = Relentless attacker 2x
+0/0/2
+-Christiansen GM = 
+
+-CM11 Archangel CP = 
+
+-Cole 1554 G4 = Vulnerable king
+0/0/1
 -Corzo = 
--Cute Kitty CP = Não irei jogar com GMs / CP / WE ainda
 
-Ordem de acordo com a Classificação / Rating  :
-
-CM11 Archangel
-Cassie #2 
-Chess Master 
-Daniel =
-
-Kasparov =
-Caruana = 
-Frederic =
-Aronian = 
-Queenie =
-Liren =
-Nakamura =
-Firoujza = 2804
-
-Jinx =
-Lili = 
-Buck =
-J.T. =
-
-Muldoon = 
-Jade =
-Natalie =
-Vanessa =
-
-Turk = 1971
-Toni = 1940
-Kenji = 1908
-Liam = 1888
-
-George = 1731
-Jon = 1729
-Hans = 1720 
-Mateo = 1715
-
-John = 1598
-Kanna = 1590 
-Max = 1588
-Ginger = 1579
-
-Liz = 1489
-Amo = 1465
-Aaron = 1453
-Ash = 1441 
-Will = 1435
-Alicia = 1418
-Elijah = 1412
-Diana =1392
-Mariah = 1383
-
-Trudy = 
-Hayden =
-Gil =
-Risa =
-Berry =
-Raj =
-Lucy =
-Dorsa =
-Ross =
-Lydia =
-Manny = 500
-Audrey = 
-Magnus = 
-SlowChess =
-Sopiko =
-Tania = 
-
-G2 08 Ella = 973
-G2 07 Eddie = 949
-G2 06 Duke = 921 
-G2 05 Jonesie = 904
-
-G2 04 Lise = 576
-G2 03 Ross = 553
-G2 02 Lydia = 532
-G2 01 Manny = 500
-
-G1 08 Parker = 313
-G1 07 Petra = 311
-G1 06 Monique = 230
-G1 05 Sabrina = 140
-
-G1 04 Ben = 84
-G1 03 Niko = 57
-G1 02 Pete = 37
-G1 01 Cassie = 23
+-Cute Kitty CP = 
 
 24/08 = 
 Daniel = perdi
@@ -330,3 +255,91 @@ Trudy = G3 Knight Opening
 W
 Will = G3
 Willow = G3 Accepts draws, undervalues knights
+
+Ordem de acordo com a Classificação / Rating  :
+
+CM11 Archangel
+Cassie #2 
+Chess Master 
+Daniel =
+
+Kasparov =
+Caruana = 
+Frederic =
+Aronian = 
+Queenie =
+Liren =
+Nakamura =
+Firoujza = 2804
+
+Jinx =
+Lili = 
+Buck =
+J.T. =
+
+Muldoon = 
+Jade =
+Natalie =
+Vanessa =
+
+Turk = 1971
+Toni = 1940
+Kenji = 1908
+Liam = 1888
+
+George = 1731
+Jon = 1729
+Hans = 1720 
+Mateo = 1715
+
+John = 1598
+Kanna = 1590 
+Max = 1588
+Ginger = 1579
+
+Liz = 1489
+Amo = 1465
+Aaron = 1453
+Ash = 1441 
+Will = 1435
+Alicia = 1418
+Elijah = 1412
+Diana =1392
+Mariah = 1383
+
+Trudy = 
+Hayden =
+Gil =
+Risa =
+Berry =
+Raj =
+Lucy =
+Dorsa =
+Ross =
+Lydia =
+Manny = 500
+Audrey = 
+Magnus = 
+SlowChess =
+Sopiko =
+Tania = 
+
+G2 08 Ella = 973
+G2 07 Eddie = 949
+G2 06 Duke = 921 
+G2 05 Jonesie = 904
+
+G2 04 Lise = 576
+G2 03 Ross = 553
+G2 02 Lydia = 532
+G2 01 Manny = 500
+
+G1 08 Parker = 313
+G1 07 Petra = 311
+G1 06 Monique = 230
+G1 05 Sabrina = 140
+
+G1 04 Ben = 84
+G1 03 Niko = 57
+G1 02 Pete = 37
+G1 01 Cassie = 23

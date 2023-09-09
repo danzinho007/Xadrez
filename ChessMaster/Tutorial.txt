@@ -1,9 +1,27 @@
-Xadrez Partidas 
+Tutorial :
 
-Ordem de Rating ( Classificação )
-Nome ( Rating ) --- Nome V-E-D
+-32 = Casas vazias no tabuleiro
+-B = Board / Tabuleiro
+-b = Bishop / Bispo
+-C = Limpa todas casas selecionadas
+Ex : {C}
+-D = Atrasa o script em ms ( milisegundos )
+Ex : {D:3000} > Vai demorar 3 segundos
+Ex : {B:64}{D:3000} > Vai mostrar o tabuleiro e esperar 3 segundos pra fazer a próxima ação
+-k = King / Rei
+-N = Destaca as casas selecionadas
+Ex: {N:a1b1} > Vai destacar as casas a1 e b1
+-n = Knight / Cavalo
+-p = Pawn / Peão
+-q = Queen / Rainha
+-r = Rook / Torre
+-S = Mover peça
+Exemplo : {S:a2a3} > Vai mover a peça de a2 para a3
+-W = Reproduz arquivo de som mp3 ou wav
+Ex : {W:BDL_001} > Vai tocar o som BDL_001 
 
-
+{B:rnbqkbnr/pppppppp/32/PPPPPPPP/RNBQKBNR}{S:a2a3}
+{B:64}{W:BDL_001}
 
 
 Darcy = OK

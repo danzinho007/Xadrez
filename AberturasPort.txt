@@ -6,56 +6,107 @@ Aberturas Estudadas :
 -Abertura Orangotango = OK
 1.b4 e5 2.a3
 
--Gambito de Dama Recusado
-1.c4 d5 2.e6 Cc3 3.d4
+-Abertura Inglesa = OK
+1.c4 e5 2.Cc3 Cf6 3.g3 Cc6 4.Bg2 g6
 
--Abertura Inglesa 
-1.c4 e5 2.Cc3 Cf6 3.g3 Cc6 4.Bg2
-
--Ataque Trompowsky 
+-Ataque Trompowsky = OK
 1.d4 Cf6 2.Bg5
 
--Defesa Holandesa
+-Gambito de Dama Recusado = OK
+1.d4 d5 2.c4 e6 3.Cc3 Cf6 4.Bg5 Bg7 5.e3 O-O
+
+-Defesa Holandesa = OK
 1.d4 f5
 
--Defesa Nimzo Gambito Bielefelder
+-Defesa Nimzo Gambito Bielefelder = OK
 1.e4 Cc6 2.d4 e5 3.dxe5 Bc5
 
--Defesa Siciliana Fechada VarTrad
-1.e4 c5 2.Cc3 Cc6 3.Cf3
+-Defesa Siciliana Fechada VarTrad = OK 
+1.e4 c5 2.Cc3 Cc6 3.Cf3 = OK
+
+-Defesa Siciliana Fechada 3.Cf3 e6 = OK
 1.e4 c5 2.Cc3 Cc6 3.Cf3 e6 4.Be2 Cd4 5.O-O a6
 
-1.e4 c5 2.Cf3 Cc6 3.d4 cxd4 4.Cxd4 Cf6 5.
+-Defesa Siciliana Fechada 2.Cc3 d6 3.Cf3 a6= OK
+1.e4 c5 2.Cc3 d6 3.Cf3 a6 4.d4 cxd4 5.Cxd4 Cf6
 
--Dragão Acelerada
-1.e4 c5 2.Cf3 Cc6 3.d4 cxd4 4.Cxd4 g6 5.Cc3 Bg7 6.Be3 Cf6 6.Bc4
+-Defesa Siciliana Fechada 2.Cc3 d6 3.Cf3 Cf6 = OK
+1.e4 c5 2.Cc3 d6 3.Cf3 Cf6 4.d4 cxd4 5.Cxd4 a6
 
--DefSic VarLasker VarTrocas
+-DefSic Fechada = Falta
+1.e4 c5 2.Cc3 d6 3.Cf3 e5 4.Bc4
+
+-DefSic VarLasker VarTrocas = OK
 1.e4 c5 2.Cf3 Cc6 3.d4 cxd4 4.Cxd4 Cf6 5.Cc3 e5 6.Cxc6 bxc6 7.Df3
 
--Defesa Caro Kann
-1.e4 c6 2.d4 c5 3.e5 Bf5
-1.e4 c6 2.d4 c5 3.Cc6 Dxe4 4.Cxe4 5.Bf5 Cg3
+-Dragão Acelerada = OK
+1.e4 c5 2.Cf3 Cc6 3.d4 cxd4 4.Cxd4 g6 5.Cc3 Bg7 6.Be3 Cf6 6.Bc4 O-O
 
--Ruy Lopez
+-DefCaroKann Var2Cavalos = Ok
+1.e4 c6 2.Cc3 d5 3.d4 dxe4 4.Cxe4 Cf6 5.Cxf6+ exf6
+
+-Defesa Caro Kann Variante do Avanço = OK
+1.e4 c6 2.d4 d5 3.e5 Bf5 = Ok
+
+DefAlek Variante Normal = Falta
+1.e4 Cf6 2.e5 Cd5 3.d4 d6 4.c4 Cb6 5.f4 Bf5
+1.e4 Cf6 2.e5 Cd5 3.d4 e6 4.Cf3 Bb4+ 5.Cbd2 
+
+-DefAlek Variante Maroczy = Falta
+1.e4 Cf6 2.d3 Cc6 3.f4 e5 4.fxe5 Cxe5
+
+-Defesa Alekhine Variante Normal = Falta
+1.e4 Cf6 2.e5 Cd5 3.d4 d6
+
+-Defesa Escandinávia Variante Moderna = Falta
+1.e4 d5 2.exd5 Cf6 3.d4 Dxd5 4.Cf3 Dd8 5.Be2 h6
+
+-Defesa Pirc = OK
+1.e4 d6 2.d4 Cf6 3.Cc3 e5
+
+-Ruy Lopez = OK
 1.e4 e5 2.Cf3 Cc6 3.Bb5 a6 4.Ba4 b5 5.Bb3
 
--Ruy Lopez Fechada
+-Ruy Lopez Fechada = OK
 1.e4 e5 2.Cf3 Cc6 3.Bb5 a6 4.Ba4 Cf6 5.O-O Be7 6.Te1 d5 7.Bb3 O-O 8.c3
+
+-Giuoco Piano = Falta
+1.e4 e5 2.Cf3 Cc6 3.Bc4 Bc5 4.O-O d6 5.d3 Cf6
+
+-Ataque Vara de Pesca 
+1.e4 e5 2.Cf3 Cc6 3.Bb5 Cf6
 
 1.e4 e5 2.Cf6 Cc6 3.Bc4 a6 4.Ba4
 1.e4 e5 2.Cf6 Cc6 3.Bc4 a6 4.Bxc6 dxc6
-1.e4 e5 2.Cf6 Cc6 3.Bc4 Bc5
 
--Ataque Fegatello ( Cd5 Erro = +7 Brancas )
+-Jogo Italiano = Falta
+1.e4 e5 2.Cf6 Cc6 3.Bc4 Bc5 4.O-O Cf6 5.d3 O-O
+
+-Defesa Hungara = Falta
+1.e4 e5 2.Cf3 Cc6 3.Bc4 Be7 4.c3 Cf6 5.d4 exd4
+1.e4 e5 2.Cf3 Cc6 3.Bc4 Be7 4.O-O Cf6 5.dd3 O-O
+
+-Ataque Fegatello = OK
 1.e4 e5 2.Cf3 Cc6 3.Bc4 Cf6 4.Cg5 Cd5 5.d4 h6
 
 -JogoIta Def2Cav AtqCav
--Ataque Fegatello ( Correto )
+-Ataque Fegatello ( Correto ) = OK
 1.e4 e5 2.Cf3 Cc6 3.Bc4 Cf6 4.Cg5 d5 5.exd5 Ca6 6.Bb5+ c6 7.dxc6 bxc6 8.Df3 cxb5 9.Dxa8
 
+-4 Cavalos Italiana = OK
+1.e4 e5 2.Cf3 Cc6 3.Cc3 Cf6 4.Bc4 Cxe4 5.Cxe4 d5 6.Bd3 dxe4 7.Bxe4
+
+-Defesa Philidor = Falta
+1.e4 e5 2.Cf3 d6 3.d4 Cd7 4.Bc4 c6 5.O-O Be7
+
+-Gambito Letão = OK
+1.e4 e5 2.Cf3 f5 
+
+-Defesa Damiano = Falta
+1.e4 e5 2.Cf3 f6 3.Bc4 c6 4.d4 d5 5.exd4 cxd5
+
 -Gambito Dinamarquês
-1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 cxb2 5.Bxb2 
+1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 cxb2 5.Bxb2 d5 6.Bxd5 Cf6 7.Bxf7 Rxf7 8.Dxd8 B
 
 -Gambito do Rei Aceito
 1.e4 e5 2.f4 exf4 3.Cf3 d5 4.exd5 Cf6 5.Bc4 cxd5
