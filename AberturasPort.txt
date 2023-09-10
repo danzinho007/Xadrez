@@ -6,6 +6,11 @@ Aberturas Estudadas :
 -Abertura Orangotango = OK
 1.b4 e5 2.a3
 
+-Abertura Inglesa, Defesa AngloIndia, Variante ReiCavalo = Falta Verificar !!!
+
+-Abertura Zukertort Variante Simétrica = OK
+1.Cf3 Cf6 2.d4 d5 3.c4 c6 4.Cc3 e6 5.e3 Cbd7
+
 -Abertura Inglesa = OK
 1.c4 e5 2.Cc3 Cf6 3.g3 Cc6 4.Bg2 g6
 
@@ -21,6 +26,15 @@ Aberturas Estudadas :
 -Defesa Nimzo Gambito Bielefelder = OK
 1.e4 Cc6 2.d4 e5 3.dxe5 Bc5
 
+-DefAlek Var Normal 3.d4 d6= Alterar nome
+1.e4 Cf6 2.e5 Cd5 3.d4 d6 4.c4 Cb6 5.f4 Bf5
+
+-DefAlek Var Normal 3.d4 e6 = Falta
+1.e4 Cf6 2.e5 Cd5 3.d4 e6 4.c4 Cb6 5.Cf3 Cc6
+
+-DefAlek Variante Maroczy = Ok
+1.e4 Cf6 2.d3 Cc6 3.f4 e5 4.fxe5 Cxe5
+
 -Defesa Siciliana Fechada VarTrad = OK 
 1.e4 c5 2.Cc3 Cc6 3.Cf3 = OK
 
@@ -33,7 +47,7 @@ Aberturas Estudadas :
 -Defesa Siciliana Fechada 2.Cc3 d6 3.Cf3 Cf6 = OK
 1.e4 c5 2.Cc3 d6 3.Cf3 Cf6 4.d4 cxd4 5.Cxd4 a6
 
--DefSic Fechada = Falta
+-DefSic Fechada = Ok
 1.e4 c5 2.Cc3 d6 3.Cf3 e5 4.Bc4
 
 -DefSic VarLasker VarTrocas = OK
@@ -48,17 +62,7 @@ Aberturas Estudadas :
 -Defesa Caro Kann Variante do Avanço = OK
 1.e4 c6 2.d4 d5 3.e5 Bf5 = Ok
 
-DefAlek Variante Normal = Falta
-1.e4 Cf6 2.e5 Cd5 3.d4 d6 4.c4 Cb6 5.f4 Bf5
-1.e4 Cf6 2.e5 Cd5 3.d4 e6 4.Cf3 Bb4+ 5.Cbd2 
-
--DefAlek Variante Maroczy = Falta
-1.e4 Cf6 2.d3 Cc6 3.f4 e5 4.fxe5 Cxe5
-
--Defesa Alekhine Variante Normal = Falta
-1.e4 Cf6 2.e5 Cd5 3.d4 d6
-
--Defesa Escandinávia Variante Moderna = Falta
+-Defesa Escandinávia Variante Moderna = OK
 1.e4 d5 2.exd5 Cf6 3.d4 Dxd5 4.Cf3 Dd8 5.Be2 h6
 
 -Defesa Pirc = OK
@@ -70,24 +74,33 @@ DefAlek Variante Normal = Falta
 -Ruy Lopez Fechada = OK
 1.e4 e5 2.Cf3 Cc6 3.Bb5 a6 4.Ba4 Cf6 5.O-O Be7 6.Te1 d5 7.Bb3 O-O 8.c3
 
--Giuoco Piano = Falta
+-Giuoco Piano = Falta por
 1.e4 e5 2.Cf3 Cc6 3.Bc4 Bc5 4.O-O d6 5.d3 Cf6
 
--Ataque Vara de Pesca 
-1.e4 e5 2.Cf3 Cc6 3.Bb5 Cf6
+-Ataque Vara de Pesca = Pretas
+Completar
 
-1.e4 e5 2.Cf6 Cc6 3.Bc4 a6 4.Ba4
-1.e4 e5 2.Cf6 Cc6 3.Bc4 a6 4.Bxc6 dxc6
+-AbRuyLopez DefMorphy 4.Bc4 Bc5 = Falta
+1.e4 e5 2.Cf3 Cc6 3.Bb5 a6 4.Bc4 Bc5 ( Bc4 Erro )
 
--Jogo Italiano = Falta
+-AbRuyLopez DefMorphy 2.Cf3 Cc6 = Falta
+1.e4 e5 2.Cf3 Cc6 3.Bb5 a6 4.Bxc6 bxc6 5.Cxe5 Dg5 
+Cxe5 = Bom
+
+-Jogo Italiano = Falta por
 1.e4 e5 2.Cf6 Cc6 3.Bc4 Bc5 4.O-O Cf6 5.d3 O-O
 
--Defesa Hungara = Falta
+-Defesa Hungara = Falta por
 1.e4 e5 2.Cf3 Cc6 3.Bc4 Be7 4.c3 Cf6 5.d4 exd4
-1.e4 e5 2.Cf3 Cc6 3.Bc4 Be7 4.O-O Cf6 5.dd3 O-O
 
--Ataque Fegatello = OK
-1.e4 e5 2.Cf3 Cc6 3.Bc4 Cf6 4.Cg5 Cd5 5.d4 h6
+-Ataque Greco = Falta
+1.e4 e5 2.Cf3 Cc6 3.Bc4 Bc5 4.c3 Cf6 5.d4 exd4 6.cxd4 Bb4+ 7.Cc3 Bxe4 8.Cc3 Cxe4 9.O-O Cxc3 10.bxc3 Bxc3 
+
+-
+1.e4 e5 2.Cf3 Cc6 3.Bc4 Bc5 4.c3 Cf6 5.d4 exd4 6.cxd4 Bb4+ 7.Cc3 Bxe4 8.Cc3 Cxe4 9.O-O Cxc3 10.bxc3 Bxc3 11.Db3 Bxa1 12.
+
+-
+1.e4 e5 2.Cf3 Cc6 3.Bc4 Be7 4.O-O Cf6 5.dd3 O-O
 
 -JogoIta Def2Cav AtqCav
 -Ataque Fegatello ( Correto ) = OK
@@ -95,6 +108,12 @@ DefAlek Variante Normal = Falta
 
 -4 Cavalos Italiana = OK
 1.e4 e5 2.Cf3 Cc6 3.Cc3 Cf6 4.Bc4 Cxe4 5.Cxe4 d5 6.Bd3 dxe4 7.Bxe4
+
+-Gambito Halloween Aceito
+1.e4 e5 2.Cf3 Cc6 3.Cc3 Cf6 4.Cxe5 Cxe5 5.d4 Cc6 6.d5 Cb8 7.e5 Cg8 8.d6 cxd6 9.exd6 Df6 10.Cb5 
+
+-Gambito Escocês = Falta
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Ng5 h6 5. Nxf7 Kxf7 6. Bc4+ Ke8 7. Qh5+ Ke7 8. Qf7+ Kd6 9. e5+ Nxe5 10. Qd5+ Ke7 11. Qxe5#
 
 -Defesa Philidor = Falta
 1.e4 e5 2.Cf3 d6 3.d4 Cd7 4.Bc4 c6 5.O-O Be7
@@ -105,13 +124,19 @@ DefAlek Variante Normal = Falta
 -Defesa Damiano = Falta
 1.e4 e5 2.Cf3 f6 3.Bc4 c6 4.d4 d5 5.exd4 cxd5
 
--Gambito Dinamarquês
-1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 cxb2 5.Bxb2 d5 6.Bxd5 Cf6 7.Bxf7 Rxf7 8.Dxd8 B
+-Gambito Dinamarquês = OK
+1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 cxb2 5.Bxb2 d5 
+
+-Peão do Rei Ataque Waryward Queen = OK
+1.e4 e5 2.Dh5 Cc6 3.Bc4 g6 4.Df3 Cf6 5.Ce2 d6
 
 -Gambito do Rei Aceito
 1.e4 e5 2.f4 exf4 3.Cf3 d5 4.exd5 Cf6 5.Bc4 cxd5
 1.e4 e5 2.f4 exf4 3.Cf3 d6 4.d4 g5 5.h4 g4
 1.e4 e5 2.f4 exf4 3.Cf3 g5 4.Cc3 d6 5.g3 fxg3 6.hxg6 Cc6
+
+-DefFrancesa VarAvanço Linha Fechada = Falta
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 g6 8. Bg2 Na5 9. Nbd2 Ne7 10. O-O Bd7
 
 -Defesa Francesa Variante do Avanço
 1.e4 e6 2.d4 e5 3.c5 c3 
@@ -119,6 +144,9 @@ DefAlek Variante Normal = Falta
 
 -Defesa Francesa Variante Tarrash
 1.e4 e6 2.d4 e5 3.Cd2 c5
+
+-Mate Pastor = Ok
+1.e4 f6 2.d4 g5 3.Dh5#
 
 -Defesa Holandesa Invertida
 1.f4 d5 2.Cf3 g6 3.g3 Bg7
@@ -129,10 +157,24 @@ DefAlek Variante Normal = Falta
 Vendo : 
 https://www.youtube.com/@XadrezMiniatura/videos
 
+Canais :
+
+AlexandraChess
+https://www.youtube.com/@AlexandrachessYT/shorts
+GM Evandro Barbosa
+https://www.youtube.com/@GMEvandroBarbosa/videos
+Rei afogado 
+https://www.youtube.com/@ReiAfogado/videos
+Xadrez Brasil
+https://www.youtube.com/@xadrezbrasil/videos
+Xadrez Miniatura 
+https://www.youtube.com/@XadrezMiniatura/videos
+
 Vídeos :
 https://www.youtube.com/watch?v=1Xy_hf7q0g0 = Vi
 https://www.youtube.com/watch?v=AAX3I8FBgGM = Ver
 https://www.youtube.com/watch?v=aXcgAv4Wgxg = Vi
+https://www.youtube.com/watch?v=RQnIbYxyYbs = Falta anotar
 https://www.youtube.com/watch?v=qLu5dhzGylU = Ver
 https://www.youtube.com/watch?v=qw5GNI2AkPs = Vi
 https://www.youtube.com/watch?v=y4RAOqwiq94 = Ver

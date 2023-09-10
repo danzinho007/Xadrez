@@ -1,4 +1,4 @@
-Duelistas :
+﻿Duelistas :
 Nome Rating = : partidas
 
 -Aaron 1460 G3 = Positional player
@@ -73,15 +73,15 @@ C
 0/0/2
 -Chess Master CP = 
 0/0/2
--Chessmaster CP = não achei
-
+-Chessmaster Personal = 
+2/0/4
 -Chiburdanidze CP = 
 0/0/2
 -Chigorin GM = 
-
+0/0/2
 Christian 1169 = Relentless attacker 2x
 0/0/2
--Christiansen GM = 
+-Christiansen GM = Tactician, attacker
 
 -CM11 Archangel CP = 
 
