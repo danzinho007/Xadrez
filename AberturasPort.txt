@@ -1,119 +1,241 @@
 Aberturas Estudadas :
 
--Ataque Larsen = OK
+a3 = Abertura Anderssen
+a3 h6 = Anderssen Simétrica
+a4 = Waren
+a4 h5 = Waren Simétrica
+b3 = Ataque Larsen
+b4 = Abertura Polonesa
+c3 = Abertura Saragossa
+c4 = Abertura Inglesa
+Ca3 = Ataque Durkin
+Cc3 = Abertura Dunst !!!
+Cf3 = Ataqye India do Rei
+Ch3 = Abertura Paris
+d3 = Abertura Mieses
+d4 = Abertura Peão da Dama
+d4 b5 = Defesa Polonesa
+d4 c5 = Defesa Benoni
+d4 c6 c4 d6 = Defesa Lowe
+d4 Cc6 c4 e5 dxe5 Cxe5 Cc3 Cxc4 = Defesa Lundin-Kewitz
+d4 Cf6 = Defesa Indiana
+d4 d5 = Center Counter Game !!! ou Jogo Peão da Dama
+d4 d5 Bg4 = Ataque Sarratt
+d4 d5 Bg5 = Ataque Levitsky
+d4 d5 c4 = Gambito da Dama
+d4 d5 Cc3 Bg4 = Variante Anti-Veresov
+d4 d5 Cc3 Cf6 Bg5 = Ataque Richeter Veresov
+d4 d5 Cc3 Cf6 e4 dxe4 f3 exf3 Cxf3 e6 = Defesa Euwe
+d4 d5 Cc3 Cf6 e4 e5 = ContraGambito Lemberg
+d4 d5 Cf3 = Grunfeld Reversa
+d4 d5 e3 Cf6 Bd3 = Ataque Stonewall
+d4 d5 e4 = Gambito Blackmar 
+d4 d5 f4 = Variante Mason
+d4 d6  = Rato
+d4 e5  = Gambito Englund 
+d4 e6  = Defesa Horwitz
+d4 f5  = Defesa Alemã
+d4 g6 = Defesa Moderna
+e3 = Abertura Vant Krujis
+e4 = Abertura Peão do Rei
+e4 a5 = Defesa Corn Stalk
+e4 a6 = Defesa St George
+e4 b6 = Fianqueto da Dama
+e4 c5 = Defesa Siciliana
+e4 c6 = Defesa Caro-Kann
+e4 Ca6  = Defesa Lemming
+e4 Cc6  = Defesa Nimzowitsch
+-e4 Cf6 = Defesa Alekhine
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+-e4 Ch6 d4 g6 c4 f6 = Defesa Hipopótamo
+e4 d6  = Defesa Pirc
+e4 e5  = Jogo Peão do Rei
+e4 e5 a3 = Variante Mengarini
+e4 e5 Bc4 = Abertura Bispo
+e4 e5 c3 = Variante Lopez
+e4 e5 Cc3 = Jogo Vienna
+e4 e5 Ce2 = Alapin
+e4 e5 Cf3 = Abertura Cavalo do Rei
+e4 e5 Cf3 Cc6 = Variante Cavalo da Dama
+e4 e5 Cf3 Cc6 Bb5 = Ruy Lopez
+e4 e5 Cf3 Cc6 Bc4 Bc5 = Jogo Italiano
+e4 e5 Cf3 Cc6 Bc4 Be7 = Defesa Húngara
+e4 e5 Cf3 Cc6 Bc4 Cd4 Cxe5 Dg5 Cxf7 Dxg2 Tf1 Dx4+ Be2 Cf3# = Gambito Blackburne
+e4 e5 Cf3 Cc6 Bc4 f5 = Gambito Rousseau
+e4 e5 Cf3 Cc6 Be2 = Abertura Tayler
+e4 e5 Cf3 Cc6 c3 = Abertura Ponzianni
+e4 e5 Cf3 Cc6 c4 = Variante Dresden
+e4 e5 Cf3 Cc6 Bc4 Cf6 = Defesa 2 Cavalos
+e4 e5 Cf3 Cc6 Cc3 = Abertura 3 Cavalos
+e4 e5 Cf3 Cc6 Cc3 Bb4 Cd5 Cf6 = Variante Schlechter
+e4 e5 Cf3 Cc6 Cc3 Bc5 = Jogo 3 Cavalos
+e4 e5 Cf3 Cc6 Cc3 Cf6 = Abertura dos 4 Cavalos
+e4 e5 Cf3 Cc6 Cc3 f5 = Defesa Winawer / Gótica
+e4 e5 Cf3 Cc6 Cc3 g6 = Variante Steinitz
+e4 e5 Cf3 Cc6 Cxe5 Cxe5 d4 = Gambito de Chicago Aceito
+e4 e5 Cf3 Cc6 d4 = Jogo Escocês
+e4 e5 Cf3 Cc6 g3 = Abertura Konstantinopla
+e4 e5 Cf3 Cf6 = Defesa Petrov
+e4 e5 Cf3 d5 = ContraGambito do Peão da Dama
+e4 e5 Cf3 d6 = Defesa Philidor
+e4 e5 Cf3 De7 = Defesa Gunderam
+e4 e5 Cf3 Df6 = Defesa Greco
+e4 e5 Cf3 f5 = Gambito Latvian !!!
+e4 e5 Cf3 f6 = Defesa Damiano
+e4 e5 d3 = Variante Leonardis
+e4 e5 d4 = Jogo Central
+e4 e5 Df3 = Abertura Napoleão
+e4 e5 Dh5
+e4 e5 f3 = Variante Cabeça do Rei
+e4 e5 f4 = Gambito do Rei
+e4 e5 g3 f5 = Gambito Schlenker
+e4 e6 = Defesa Francesa
+e4 f5 = Defesa Fred
+e4 f6 = Defesa Barnes
+e4 g5 = Defesa Borg
+e4 g6 = Defesa Robatsch
+f3 = Abertura Gedult
+f4 = Abertura Pássaro
+g3 = Abertura Benko
+g4 = Abertura Grob
+h3 = Abertura Clemenz
+h4 = Abertura Deprez
+
+01-Ataque Larsen = OK
 1.b3 e5 2.Bb2 Cf6
 
--Abertura Orangotango = OK
+02-Abertura Orangotango = OK
 1.b4 e5 2.a3
 
 -Abertura Inglesa, Defesa AngloIndia, Variante ReiCavalo = Falta Verificar !!!
 
--Abertura Zukertort Variante Simétrica = OK
+03-Abertura Zukertort Variante Simétrica = OK
 1.Cf3 Cf6 2.d4 d5 3.c4 c6 4.Cc3 e6 5.e3 Cbd7
 
--Abertura Inglesa = OK
+04-AbInglesa 4Cavalos = Ok
+1.c4 e5 2.Cc3 Cf6 3.Cf3 Cc6
+
+04-Abertura Inglesa = OK
 1.c4 e5 2.Cc3 Cf6 3.g3 Cc6 4.Bg2 g6
 
--Ataque Trompowsky = OK
+05-Ataque Trompowsky = OK
 1.d4 Cf6 2.Bg5
 
--Gambito de Dama Recusado = OK
+06-Gambito Benko Metade Aceito Variante Retorno Peão = Ok
+1. d4 Nf6 2.c4 c5 3.d5 b5 4. cxb5 a6 5.b6 Qxb6 6. Nc3 d6
+
+07-Gambito de Dama Recusado = OK
 1.d4 d5 2.c4 e6 3.Cc3 Cf6 4.Bg5 Bg7 5.e3 O-O
 
--Defesa Holandesa = OK
+08-Defesa Holandesa = OK
 1.d4 f5
 
--Defesa Nimzo Gambito Bielefelder = OK
+09-Defesa Nimzo Gambito Bielefelder = OK
 1.e4 Cc6 2.d4 e5 3.dxe5 Bc5
 
--DefAlek Var Normal 3.d4 d6= Alterar nome
-1.e4 Cf6 2.e5 Cd5 3.d4 d6 4.c4 Cb6 5.f4 Bf5
-
--DefAlek Var Normal 3.d4 e6 = Falta
-1.e4 Cf6 2.e5 Cd5 3.d4 e6 4.c4 Cb6 5.Cf3 Cc6
-
--DefAlek Variante Maroczy = Ok
-1.e4 Cf6 2.d3 Cc6 3.f4 e5 4.fxe5 Cxe5
-
--Defesa Siciliana Fechada VarTrad = OK 
+10-Defesa Siciliana Fechada VarTrad = OK 
 1.e4 c5 2.Cc3 Cc6 3.Cf3 = OK
 
--Defesa Siciliana Fechada 3.Cf3 e6 = OK
+11-Defesa Siciliana Fechada 3.Cf3 e6 = OK
 1.e4 c5 2.Cc3 Cc6 3.Cf3 e6 4.Be2 Cd4 5.O-O a6
 
--Defesa Siciliana Fechada 2.Cc3 d6 3.Cf3 a6= OK
+12-Defesa Siciliana Fechada 2.Cc3 d6 3.Cf3 a6= OK
 1.e4 c5 2.Cc3 d6 3.Cf3 a6 4.d4 cxd4 5.Cxd4 Cf6
 
--Defesa Siciliana Fechada 2.Cc3 d6 3.Cf3 Cf6 = OK
+13-DefSici VarFechada 2.Cc3 d6 3.Cf3 e5= Ok
+1.e4 c5 2.Cc3 d6 3.Cf3 e5
+
+13-Defesa Siciliana Fechada 2.Cc3 d6 3.Cf3 Cf6 = OK
 1.e4 c5 2.Cc3 d6 3.Cf3 Cf6 4.d4 cxd4 5.Cxd4 a6
 
--DefSic Fechada = Ok
-1.e4 c5 2.Cc3 d6 3.Cf3 e5 4.Bc4
-
--DefSic VarLasker VarTrocas = OK
+15-DefSic VarLasker VarTrocas = OK
 1.e4 c5 2.Cf3 Cc6 3.d4 cxd4 4.Cxd4 Cf6 5.Cc3 e5 6.Cxc6 bxc6 7.Df3
 
--Dragão Acelerada = OK
+16-Dragão Acelerada = OK
 1.e4 c5 2.Cf3 Cc6 3.d4 cxd4 4.Cxd4 g6 5.Cc3 Bg7 6.Be3 Cf6 6.Bc4 O-O
 
--DefCaroKann Var2Cavalos = Ok
+17-DefCaroKann Var2Cavalos = Ok
 1.e4 c6 2.Cc3 d5 3.d4 dxe4 4.Cxe4 Cf6 5.Cxf6+ exf6
 
--Defesa Caro Kann Variante do Avanço = OK
+18-Defesa Caro Kann Variante do Avanço = OK
 1.e4 c6 2.d4 d5 3.e5 Bf5 = Ok
 
--Defesa Escandinávia Variante Moderna = OK
+19-DefAlek Var Normal 3.d4 d6= Ok
+1.e4 Cf6 2.e5 Cd5 3.d4 d6 4.c4 Cb6 5.f4 Bf5
+
+20-DefAlek Var Normal 3.d4 e6 = OK
+1.e4 Cf6 2.e5 Cd5 3.d4 e6 4.c4 Cb6 5.Cf3 Cc6
+
+21-DefAlek Variante Maroczy = Ok
+1.e4 Cf6 2.d3 Cc6 3.f4 e5 4.fxe5 Cxe5
+
+22-Defesa Escandinávia Variante Moderna = OK
 1.e4 d5 2.exd5 Cf6 3.d4 Dxd5 4.Cf3 Dd8 5.Be2 h6
 
--Defesa Pirc = OK
+23-Defesa Pirc = OK
 1.e4 d6 2.d4 Cf6 3.Cc3 e5
 
--Ruy Lopez = OK
+24-Ruy Lopez = OK
 1.e4 e5 2.Cf3 Cc6 3.Bb5 a6 4.Ba4 b5 5.Bb3
 
--Ruy Lopez Fechada = OK
+25-Ruy Lopez Fechada = OK
 1.e4 e5 2.Cf3 Cc6 3.Bb5 a6 4.Ba4 Cf6 5.O-O Be7 6.Te1 d5 7.Bb3 O-O 8.c3
 
--Giuoco Piano = Falta por
-1.e4 e5 2.Cf3 Cc6 3.Bc4 Bc5 4.O-O d6 5.d3 Cf6
-
--Ataque Vara de Pesca = Pretas
-Completar
-
--AbRuyLopez DefMorphy 4.Bc4 Bc5 = Falta
+26-AbRuyLopez DefMorphy 4.Bc4 Bc5 = Falta
 1.e4 e5 2.Cf3 Cc6 3.Bb5 a6 4.Bc4 Bc5 ( Bc4 Erro )
 
--AbRuyLopez DefMorphy 2.Cf3 Cc6 = Falta
+27-AbRuyLopez DefMorphy .Bxc6 bxc6 = OK
 1.e4 e5 2.Cf3 Cc6 3.Bb5 a6 4.Bxc6 bxc6 5.Cxe5 Dg5 
 Cxe5 = Bom
 
--Jogo Italiano = Falta por
-1.e4 e5 2.Cf6 Cc6 3.Bc4 Bc5 4.O-O Cf6 5.d3 O-O
+28-Jogo Italiano = Falta por
+1.e4 e5 2.Cf3 Cc6 3.Bc4 Bc5 4.O-O Cf6 5.d3 O-O
 
--Defesa Hungara = Falta por
-1.e4 e5 2.Cf3 Cc6 3.Bc4 Be7 4.c3 Cf6 5.d4 exd4
+29-Giuoco Piano = Falta por
+1.e4 e5 2.Cf3 Cc6 3.Bc4 Bc5 4.O-O d6 5.d3 Cf6
 
--Ataque Greco = Falta
+30-Ataque Greco = Falta
 1.e4 e5 2.Cf3 Cc6 3.Bc4 Bc5 4.c3 Cf6 5.d4 exd4 6.cxd4 Bb4+ 7.Cc3 Bxe4 8.Cc3 Cxe4 9.O-O Cxc3 10.bxc3 Bxc3 
 
--
-1.e4 e5 2.Cf3 Cc6 3.Bc4 Bc5 4.c3 Cf6 5.d4 exd4 6.cxd4 Bb4+ 7.Cc3 Bxe4 8.Cc3 Cxe4 9.O-O Cxc3 10.bxc3 Bxc3 11.Db3 Bxa1 12.
-
--
-1.e4 e5 2.Cf3 Cc6 3.Bc4 Be7 4.O-O Cf6 5.dd3 O-O
+31-Defesa Hungara = OK
+1.e4 e5 2.Cf3 Cc6 3.Bc4 Be7 4.c3 Cf6 5.d4 exd4
 
 -JogoIta Def2Cav AtqCav
--Ataque Fegatello ( Correto ) = OK
+32-Ataque Fegatello ( Correto ) = OK
 1.e4 e5 2.Cf3 Cc6 3.Bc4 Cf6 4.Cg5 d5 5.exd5 Ca6 6.Bb5+ c6 7.dxc6 bxc6 8.Df3 cxb5 9.Dxa8
 
--4 Cavalos Italiana = OK
+33-4 Cavalos Italiana = OK
 1.e4 e5 2.Cf3 Cc6 3.Cc3 Cf6 4.Bc4 Cxe4 5.Cxe4 d5 6.Bd3 dxe4 7.Bxe4
 
--Gambito Halloween Aceito
+34-Gambito Halloween Aceito = Ok
 1.e4 e5 2.Cf3 Cc6 3.Cc3 Cf6 4.Cxe5 Cxe5 5.d4 Cc6 6.d5 Cb8 7.e5 Cg8 8.d6 cxd6 9.exd6 Df6 10.Cb5 
 
+35-4 Cavalos Escoceses = Ok
+1.e4 e5 2.Cf3 Cc6 3.Cc3 Cf6 4.d4 exd4 5.Cxd4 Cxe4 6.Cxe4
+
 -Gambito Escocês = Falta
-1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Ng5 h6 5. Nxf7 Kxf7 6. Bc4+ Ke8 7. Qh5+ Ke7 8. Qf7+ Kd6 9. e5+ Nxe5 10. Qd5+ Ke7 11. Qxe5#
+1.e4 e5 2.Cf3 Cc6 3.d4 exd4 4.Cg5 h6 5. Nxf7 Kxf7 6. Bc4+ Ke8 7. Qh5+ Ke7 8. Qf7+ Kd6 9. e5+ Nxe5 10. Qd5+ Ke7 11. Qxe5#
+
+-Jogo Escocês Linha Principal = Falta
+1.e4 e5 2.Cf3 Cc6 3.d4 exd4 4.Cxd4 Bc5 5.Cb3 Bb6 6. Bd3 Qh4
+
+36-Jogo Escocês = Ok
+1.e4 e5 2.Cf3 Cc6 3.d4 exd4 4.Cxd4 Cxd4 5.Dxd4
 
 -Defesa Philidor = Falta
 1.e4 e5 2.Cf3 d6 3.d4 Cd7 4.Bc4 c6 5.O-O Be7
@@ -129,6 +251,42 @@ Cxe5 = Bom
 
 -Peão do Rei Ataque Waryward Queen = OK
 1.e4 e5 2.Dh5 Cc6 3.Bc4 g6 4.Df3 Cf6 5.Ce2 d6
+
+-Ataque Vara de Pesca = Pretas
+Completar
+
+
+
+
+
+
+
+
+
+
+-
+1.e4 e5 2.Cf3 Cc6 3.Bc4 Bc5 4.c3 Cf6 5.d4 exd4 6.cxd4 Bb4+ 7.Cc3 Bxe4 8.Cc3 Cxe4 9.O-O Cxc3 10.bxc3 Bxc3 11.Db3 Bxa1 12.
+
+-
+1.e4 e5 2.Cf3 Cc6 3.Bc4 Be7 4.O-O Cf6 5.dd3 O-O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 -Gambito do Rei Aceito
 1.e4 e5 2.f4 exf4 3.Cf3 d5 4.exd5 Cf6 5.Bc4 cxd5
@@ -154,36 +312,7 @@ Cxe5 = Bom
 -Ataque Vara de Pesca
 -Gambito Letão
 
-Vendo : 
-https://www.youtube.com/@XadrezMiniatura/videos
 
-Canais :
-
-AlexandraChess
-https://www.youtube.com/@AlexandrachessYT/shorts
-GM Evandro Barbosa
-https://www.youtube.com/@GMEvandroBarbosa/videos
-Rei afogado 
-https://www.youtube.com/@ReiAfogado/videos
-Xadrez Brasil
-https://www.youtube.com/@xadrezbrasil/videos
-Xadrez Miniatura 
-https://www.youtube.com/@XadrezMiniatura/videos
-
-Vídeos :
-https://www.youtube.com/watch?v=1Xy_hf7q0g0 = Vi
-https://www.youtube.com/watch?v=AAX3I8FBgGM = Ver
-https://www.youtube.com/watch?v=aXcgAv4Wgxg = Vi
-https://www.youtube.com/watch?v=RQnIbYxyYbs = Falta anotar
-https://www.youtube.com/watch?v=qLu5dhzGylU = Ver
-https://www.youtube.com/watch?v=qw5GNI2AkPs = Vi
-https://www.youtube.com/watch?v=y4RAOqwiq94 = Ver
-
--
--
--
--
-1.XX XX 2.XX XX 3.XX XX 4.XX XX 5.XX XX
 
 Aberturas :
 

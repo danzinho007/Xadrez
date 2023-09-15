@@ -82,29 +82,15 @@ C
 Christian 1169 = Relentless attacker 2x
 0/0/2
 -Christiansen GM = Tactician, attacker
-
+0/0/2
 -CM11 Archangel CP = 
-
+0/0/2
 -Cole 1554 G4 = Vulnerable king
-0/0/1
+0/0/2
 -Corzo = 
 
 -Cute Kitty CP = 
-
-24/08 = 
-Daniel = perdi
-Darcy = venci 1
-Dave = perdi 2
-Diana = perdi 3
-Dinara = venci 2 Travou lance 4
-Ding Liren = perdi 4
-Dobie = perdi 5
-
-25/08 :
-Doc = perdi 1
-Dorsa = perdi 2
-Duke = perdi 3
-Dylan = perdi 4
+0/0/2
 
 -D
 --Daniel CP = Minha Personaliade !!! Editar !!!
@@ -114,6 +100,7 @@ Dylan = perdi 4
 --Dave 1825 G4 = Favors knights 
 0/0/1
 -Di Bona = Não tem características, só foto 
+
 -Diana 1397 G3 = Defensive, trade qeens
 0/0/2
 -Dinara Saduakassova WE =  
@@ -130,13 +117,6 @@ Dylan = perdi 4
 1/0/2
 -Dylan 1673 G4 = Balanced
 0/0/1
-
-26/08 :
-Elijah = perdi 1
-Ella = perdi 2
-Eric = perdi 3
-Euwe = perdi 4
-Evans = perdi 5
 
 -Eddie 949 G2 = Tries to get rid of enemy knights
 0/0/3

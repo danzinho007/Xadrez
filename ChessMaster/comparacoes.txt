@@ -1,0 +1,51 @@
+Famoso :
+1° Chess.com
+2° Lichess
+3° Chessable
+
+Estudar :
+Lichess = Ilimitado
+Chess.com = 1 assunto por dia
+
+Análise :
+Lichess = Ilimitado
+Chess.com = 1 por dia
+
+Bots :
+Chess.com e Lichess = Vários
+
+Puzzle = 
+Lichess = Ilimitado
+Chess.com = 
+Chesskid = 1 Duelo + 3 Problemas
+
+1-Chess.com
+Mais famoso site de xadrez
+1 assunto por dia
+1 análise por dia
+Vários bots
+Jogar contra máquina sendo ajudado
+
+2-Chesskid
+6 aulas no total
+Poucos bots
+3 problemas por dia
+Duelo de problemas limitado
+
+3-Chess Compass
+Analisador de partidas
+Quiz
+
+4-Tactics Chessbase
+Táticas
+
+5-Shredderchess
+Puzzles
+
+6-Chessable
+Aulas
+
+7-Geniol
+Puzzles
+
+8-Lichess
