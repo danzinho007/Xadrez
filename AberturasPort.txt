@@ -1,4 +1,4 @@
-Aberturas Estudadas :
+Aberturas Chessmaster :
 
 a3 = Abertura Anderssen
 a3 h6 = Anderssen Simétrica
@@ -10,7 +10,7 @@ c3 = Abertura Saragossa
 c4 = Abertura Inglesa
 Ca3 = Ataque Durkin
 Cc3 = Abertura Dunst !!!
-Cf3 = Ataqye India do Rei
+Cf3 = Ataque India do Rei
 Ch3 = Abertura Paris
 d3 = Abertura Mieses
 d4 = Abertura Peão da Dama
@@ -563,7 +563,9 @@ e4 e5 Cf3 Cc6 d4 d6 = : PY
 
 e4 e5 Cf3 d6 = Defesa Philidor : TU
 e4 e5 Cf3 d6 d4 Cf6 = DefPhi Var Nimzowitsch : WC
-e4 e5 Cf3 d6 d4 Cf6 dxe5 dxe5 Dxd8+ Rxd8 Cc3 = Defesa Pirc :
+e4 e5 Cf3 d6 d4 Cf6 dxe5 dxe5 Dxd8+ Rxd8 Cc3 = 
+
+Defesa Pirc :
 
 e4 e5 Cf3 De7 = : WK
 
