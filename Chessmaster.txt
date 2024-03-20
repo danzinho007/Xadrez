@@ -1,0 +1,72 @@
+Chessmaster 
+
+-Learn 
+--Academy
+---Josh Waitzin's Academy
+----Introdu��o
+----Arsenal
+----Strategy
+----The Art of Learning
+----Endgame Course
+----Psychology of Competition
+----Annotated Games
+---Larry Christiansen Attacking Chess
+---Chessmaster Series
+
+--Famous Games
+1619 at� 2007
+
+--Database
+V�rios jogos de acordo com a Classifica��o
+
+--Openings
+
+-Play
+--Training Mode
+---Jogo entre bots ou humano
+---Simult�nea at� 31 oponentes
+--Ranked Play
+--Set Up Position
+Voc� n�o pode ter mais que 32 pe�as no tabuleiro
+Voc� deve respeitar a posi��o das pe�as iniciais ( Exemplo : n�o tem como por pe�o na cada a1 ou a8 )
+--Tournaments
+--Online
+--Lan 
+
+-Fun
+--Play
+Voc� joga um oponente com ajuda
+--Puzzles
+--Mini Games
+--Learn Basic
+
+Cassie / Pete / Niko
+
+Atq/Def -95 / 33
+For�aJogo = 7 / 9
+Mat/Pos = -30 / -44
+Aleatorio = 30 / 0
+ProfProcMax = 1 / 1
+ProcSeletiva = 6 / 6
+Empate = 0 / 0
+Transposi��o = 16 / 16
+Pensar = N�o / N
+Finais = N�o / N 
+
+Short Playing Style :
+Holds onto knights
+
+Biography :
+Pete would like to be a veterinarian when he grows up.  So far, his parents have gotten him a Golden Retriever, two cats (one white and one calico), a parakeet, a turtle, five goldfish, and one sea snail.  Pete takes very good care of his pets and hardly ever has to be reminded to feed them.  One time a baby sparrow fell out of its nest in his backyard and Pete helped nurse it back to health. He started playing chess when his uncle gave him a chess set where the pieces all looked like animals.
+
+Long Playing Style :
+Pete`s favorite chess piece is the knight (because it looks like a horse) and he will try to hold onto his knights for as long as possible. Sometimes this causes him to lose games. He is rated 37.
+
+Estilo de jogo curto:
+Segura cavaleiros
+
+Biografia :
+Pete gostaria de ser veterin�rio quando crescer. At� agora, seus pais lhe deram um Golden Retriever, dois gatos (um branco e um chita), um periquito, uma tartaruga, cinco peixinhos dourados e um caracol marinho. Pete cuida muito bem de seus animais de estima��o e quase nunca precisa ser lembrado de aliment�-los. Certa vez, um filhote de pardal caiu do ninho em seu quintal e Pete ajudou a cuidar dele para recuper�-lo. Ele come�ou a jogar xadrez quando seu tio lhe deu um jogo de xadrez onde todas as pe�as pareciam animais.
+
+Estilo de jogo longo:
+A pe�a de xadrez favorita de Pete � o cavalo (porque se parece com um cavalo) e ele tentar� segurar seus cavalos o maior tempo poss�vel. �s vezes isso faz com que ele perca jogos. Ele est� classificado como 37.
