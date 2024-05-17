@@ -1,0 +1,168 @@
+Abertura Primária :
+
+a3 Abertura Andersen
+a4 Abertura Waren
+b3 Abertura Larsen 
+b4 Abertura Sokolsky / Polonesa / Orangotango
+c3 Abertura Saragossa
+c4 Abertura Inglesa
+Ca3 Abertura Durkin / Ataque Sódio
+Cc3 Abertura Van Geet / Dunst
+d3 Abertura Mieses / Venezuelana / Valencia
+d4 Abertura Peão Dama
+71 = Cf3 Abertura Reti
+72 = Ch3 Abertura Amar 
+73 = e3 Abertura Vant Krujis
+74 = e4 Abertura do Peão do Rei
+75 = f3 Abertura Barnes
+76 = f4 Abertura do Pássaro
+77 = g3 Fianqueto do Rei
+78 = g4 Abertura Grob
+79 = h3 Abertura Clemenz
+80 = h4 Desprez
+
+Defesa Secundária :
+OBS : irei ignorar variações simétricas
+
+a3 = Não
+https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._a3
+a4 = Não
+https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._a4
+Ca3 = Não
+https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._Na3
+Cc3 e5 e4 = Jogo Vienna
+b3 b5 AtqLarssen Var Polonesa = OK
+b3 c5 AtqLarssen VarInglesa = OK
+b4 a5 AbSokolsky AtqMachoAlfa VarSimagin = OK
+b4 c5 AbSokolsky GamBirmingham = OK
+b4 Ca6 AbSokolsky VarBucker = OK
+b4 Cc6 AbSokolsky DefAasum
+b4 f5 AbSokolsky VarNajdorf
+c4 b5 AbInglesa GambJãnish
+c4 d5 AbInglesa Vector
+c4 f5 AbInglesa Anglo-Holandesa
+c4 c6 AbInglesa DefCaroKann = ???
+c4 Cf6 AbInglesa AngloIndia = ???
+c4 e5 AbInglesa Dir = ???
+c4 c5 AbInglesa Simétrica = ???
+
+?? = c4 c5 Abertura Inglesa Var Simétrica
+?? = c4 e5 Ab Ing Var Rei Inglês
+?? = d4 c5 Defesa Velho Benoni
+?? = d4 f5 Defesa Holandesa
+?? = d4 g6 Defesa Moderna
+?? = e4 c5 Defesa Siciliana
+?? = e4 c6 Defesa Caro-Kann
+?? = e4 Cf6 Defesa Alekhine
+?? = e4 d5 Defesa Escandinávia
+?? = e4 d6 Defesa Pirc
+?? = e4 e6 Defesa Francesa
+
+Variação Terciária :
+
+?? = Cf3 d5 c4 Ab Réti Gambito Réti
+?? = d4 Cf6 Bg5 Ataque Trompowsky
+?? = e4 c5 Cc3 Def Sic Fechada
+
+Xadrez
+
+*Aberturas*
+
+-Ataque Torre
+d4 Cf6 Cf3 e6 Bg5
+Bispo sempre em d3
+d4 Cf6 Cf3 e6 Bg5 c5 e3 Dc1
+Toca em b2
+Não defenda com b3
+d4 Cf6 Cf3 e6 Bg5 d5 Cd2 c5 e3 Db6 Dc1
+d4 Cf6 Cf3 g6 Bg5
+d4 Cf6 Cf3 g6 Bg5 Bg7 Cd2 d6 c3 0-0
+d4 Cf6 Cf3 g6 Bg5 Bg7 Cd2 d6 c3 0-0 e4 h6 Bh4 g5 Bg3 Ch5
+d4 Cf6 Cf3 g6 Bg5 d6 c3 0-0 e4 c5 dxc5 dxc5 Bc4 Cc6 0-0 Dc7
+
+
+
+
+
+Xadrez
+-Tabuleiro 8x8
+-Guerra entre Branco e Preto
+
+Peças :
+
+-Rook = 2
+Movimento : Horizontal ou Vertical
+
+-Knight = 2
+Movimento = L 
+
+-Bishop = 2
+Movimento : Diagonal
+
+-Queen = 1
+Movimento : Horizontal , vertical ou diagonal
+
+-King = 1 
+Movimento : 1 casa em volta dele
+
+-Pawn = = 8
+Movimento : 2 casa pra frente
+
+Situação :
+-Checkmate
+
+Fool's Mate :
+Stalemate = 
+En Passant
+Castling =
+Promotion = 
+Notação Algébrica
+
+Leveis de dificuldade :
+Newcomer = Mais fácil
+Livro de Abertuda tem 151 mil posições ao longo de 15 ou 20 movimentos
+
+Estilos de jogo :
+Normal 
+Casa de Café
+Melhor
+
+La Bourdonnais-McDonnell , 21 de Março Jogo 1834
+
+The McDonnell-La Bourdonnais encounters were , in a real sense , the beginning of modern chess -- a series of formally arranged games, all of which where preserved and published. This is one of many wild attacking games in which both sides play for mate. The final position is quite amusing
+
+avoided = 
+avoiding = 
+blunder = 
+castling =
+may = 
+nearer = 
+rely =
+Since = 
+square =
+sneak = 
+threat = 
+threatening =
+tricky =  
+underpromotes =
+whether = 
+which = 
+
+Brancas :
+e4 e5
+Cf3 Cf6
+Cxe4 Cxe4
+De2 Cf6
+Cc6+ De7
+Cxe7
+
+Pretas :
+02
+e4 e5
+d4 exd4
+Dxd4 Cc6
+Dc3 Bb4
+
+Alfinete - uma pe�a est� impedindo que outra pe�a se mova porque mov�-la ir� expor uma pe�a mais valiosa atr�s dela.
+
+Zugzwang - uma situa��o em que um jogador deve fazer uma jogada quando preferiria passar e n�o se mover porque todas as suas op��es s�o ruins.
