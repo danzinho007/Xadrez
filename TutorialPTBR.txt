@@ -1,0 +1,37 @@
+Bem-vindo à sua primeira aula de xadrez! Se você concluir todas as lições apresentadas aqui, aprenderá tudo o que precisa para jogar xadrez. Claro, há muito mais para saber sobre tática e estratégia. Esses tópicos são abordados em lições mais avançadas.
+
+Começaremos suas aulas dando uma olhada no tabuleiro de xadrez. O tabuleiro de xadrez é composto por 64 casas, em um padrão de 8 x 8, alternando preto e branco, ou escuro e claro, nas cores. Ao jogar, o tabuleiro deve estar sempre virado para que haja um quadrado claro no canto inferior direito. O ditado “Luz à Direita” irá ajudá-lo a lembrar disso.
+
+As colunas verticais do tabuleiro de xadrez são chamadas de "arquivos". Você deve se lembrar disso pensando em um gabinete de “arquivo” vertical. Observe que cada arquivo é chamado por uma letra. Dizemos, por exemplo, que este é o arquivo “a” e este é o arquivo “f”.
+
+As linhas do tabuleiro de xadrez são chamadas de "fileiras". Você pode lembrar disso observando que tanto "linha" quanto "classificação" começam com a letra R. Observe que cada classificação é chamada por um número. Dizemos que esta é a 2ª classificação e esta é a 5ª classificação.
+
+Cada casa no tabuleiro tem um nome obtido pela combinação de sua posição no arquivo e sua posição na classificação. Este quadrado é chamado de "b5" porque está na coluna "b" e na 5ª posição. Este quadrado é chamado de "h3" porque está na coluna "h" e na 3ª posição. Este quadrado é denominado "e8". E esse quadrado é chamado de “d2”.
+
+Uma série de quadrados que vão de um canto a outro é chamada de diagonal. As diagonais são identificadas pelos seus quadrados iniciais e finais. Esta é a diagonal a1-h8. Esta é a diagonal f1-a6.
+
+O xadrez é um jogo de guerra entre o exército negro no topo do tabuleiro e o exército branco na parte inferior do tabuleiro. Embora sempre chamemos os dois lados de Preto e Branco, os jogos de xadrez podem variar bastante em cores. As peças mais escuras são sempre chamadas de Pretas e as peças mais claras são sempre chamadas de Brancas. Agora vamos colocar as peças de xadrez no tabuleiro.
+
+Solidamente posicionadas nos quatro cantos do tabuleiro estão as Torres, parecendo-se com as torres do castelo que representam.
+
+Ao lado de cada Torre, galopando para dentro do castelo, estão os quatro cavaleiros, que geralmente se assemelham a cavalos.
+
+No centro estão o Rei e sua Rainha. Observe que a Rainha Branca sempre começa o jogo em uma casa clara e a Rainha preta sempre começa em uma casa escura. Uma maneira fácil de lembrar isso é dizer “Rainha na cor” ou “O vestido combina com os sapatos”.
+
+Os lados esquerdo e direito do tabuleiro são nomeados de acordo com as posições iniciais do Rei e da Rainha. Isso é chamado de Kingside. E isso é chamado de Queenside.
+
+Ao lado do Rei e da Rainha estão os seus conselheiros de confiança, os Bispos.
+
+E por fim, diante de cada uma dessas peças, ficam os Peões, os soldados de infantaria do exército.
+
+O tabuleiro agora está pronto para o início de um jogo de xadrez. O jogador com as peças brancas sempre se move primeiro em uma partida de xadrez. Cada jogador move uma peça por turno.
+
+Esta é uma Torre.  
+As torres são facilmente identificadas em um jogo de xadrez pelo fato de geralmente se assemelharem à torre de um castelo.  
+Em um jogo de xadrez, a Torre se move horizontalmente ao longo das fileiras ou verticalmente ao longo das colunas.  
+A partir desta posição em e5, a Torre pode mover-se para qualquer uma das casas destacadas. Por exemplo, ele poderia passar para e1 ou para c5.  
+Aqui está outra Torre, desta vez em c6. Observe os quadrados para os quais ele pode se mover. Desta vez o seu movimento é dificultado por duas das suas próprias peças, em c4 e e6. Uma Torre nunca pode saltar sobre uma das suas próprias peças. Moveremos esta Torre para a6.  
+Agora olhe para esta Torre em f3 e as casas para as quais ela pode se mover. Seu movimento é dificultado por uma das peças do oponente, em f6. Quando uma das peças do seu oponente estiver no caminho da sua Torre, você não poderá pular sobre ela, mas poderá capturá-la. Quando sua Torre captura uma peça, ela se move para a casa onde a peça estava. Vamos capturar o peão em f6. Torre pega peão.  
+A Torre é considerada uma peça forte devido à sua capacidade de percorrer longas distâncias e atacar múltiplas casas simultaneamente.  
+Em um jogo, a Torre está no seu melhor quando há arquivos abertos. Nesta configuração, observe quanto mais espaço a Torre em b2 controla, em comparação com a Torre em h8.  
+Agora tente mover uma Torre e capturar com ela nos exercícios a seguir.

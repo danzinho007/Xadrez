@@ -1,0 +1,38 @@
+Welcome to your first chess lesson!  If you complete all of the lessons presented here, you'll learn everything you need to play a game of chess. Of course, there's a lot more to know about tactics and strategy. Those topics are covered in more advanced lessons.
+
+We'll start your lessons by taking a look at the Chessboard. The Chessboard is made up of 64 squares, in a pattern of 8 x 8, alternating black and white, or dark and light, in color. When playing a game, the board must always be turned so there's a light square in the lower right hand corner. The saying "Light on Right" will help you remember this.
+
+The vertical columns on the chessboard are called "files". You might remember this by thinking about a vertical "file" cabinet. Note that each file is called by a letter. We say, for example, that this is the "a" file, and this is the "f" file.
+
+The rows on the chessboard are called "ranks". You can remember this is by noting that both "row" and "rank" start with the letter R. Note that each rank is called by a number. We say this is the 2nd rank, and this is the 5th rank.
+
+Each square on the board has a name arrived at by putting together its file position and its rank position. This square is called "b5" because it's on the "b" file and the 5th rank. This square is called "h3" because it's on the "h" file and the 3rd rank. This square is called "e8". And this square is called "d2".
+
+A series of squares going from corner to corner is called a diagonal. Diagonals are identified by their beginning and ending squares. This is the a1-h8 diagonal. This is the f1-a6 diagonal.
+
+Chess is a game of war between the black army at the top of the board, and the white army at the bottom of the board. Although we always call the two sides Black and White, chess sets can vary quite a lot in color. The darker pieces are always referred to as Black and the lighter pieces are always referred to as White. Now, let's put the chess pieces on the board.
+
+Standing solidly at the four corners of the board are the Rooks, looking like the castle towers they represent.
+
+Next to each Rook, galloping into the castle, are the four knights, which usually resemble horses.
+
+In the center stand the King and his Queen.  Note that the White Queen always starts the game on a light square and the black Queen always starts on a dark square. An easy way to remember this is by saying, "Queen on color," or "The dress matches the shoes."
+
+The left and right sides of the board are named for the starting positions of the King and Queen. This is called the Kingside. And this is called the Queenside.
+
+Next to the King and Queen go their trusted advisors, the Bishops.
+
+And finally, in front of each of these pieces, stand the Pawns, the foot soldiers of the army.
+
+The board is now ready for a Chess Game to begin. The player with the White pieces always moves first in a game of Chess. Each player moves one piece per turn.
+
+This is a Rook.  
+Rooks are easily identified in a chess set by the fact that they usually resemble the tower of a castle.  
+In a chess game, the Rook moves horizontally along ranks, or vertically along files.  
+From this position on e5, the Rook can move to any of the highlighted squares. For example, it could move to e1, or it could move to c5.  
+Here's another Rook, this time on c6. Note the squares to which it can move. This time its movement is hindered by two of its own pieces, on c4 and e6. A Rook can never jump over one of its own pieces. We'll move this Rook to a6.  
+Now look at this Rook on f3 and the squares to which it can move. Its movement is hindered by one of its opponent's pieces, on f6. When one of your opponent's pieces lies in the path of your Rook, you may not jump over it, but you can capture it. When your Rook captures a piece, it moves to the square the piece was on. Let's capture the Pawn on f6. Rook takes Pawn.  
+The Rook is considered to be a strong piece because of its ability to travel long distances and attack multiple squares simultaneously.  
+In a game, the Rook is at its best when there are open files. In this set-up, note how much more space the Rook on b2 controls, compared to the Rook on h8.  
+Now try moving a Rook and capturing with it in the following exercises.  
+
