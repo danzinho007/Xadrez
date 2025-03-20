@@ -1,3 +1,197 @@
+Open Book 
+https://chessengines.blogspot.com/search?q=opening&updated-max=2019-07-08T05:20:00-07:00&max-results=20&start=87&by-date=false
+
+https://chessmaster.ahlamontada.com/f1-chess-opening-books
+
+https://computerchess.org.uk/ccrl/4040/history_book.html
+
+Manual Fritz 18 
+https://help.chessbase.com/f18-eng.pdf
+
+Manual Fritz 19
+https://help.chessbase.com/f19-eng.pdf
+
+Personalidades CM11 :
+https://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=7&t=3054
+
+Jogo : Arena Chess GUI 
+http://www.playwitharena.de/
+
+Jogo : Shredder Chess 
+https://www.shredderchess.com/online/opening-database.html
+
+Open Book 
+https://sites.google.com/site/computerschess/download
+
+https://sociedadedosmestresdexadrez.blogspot.com/2011/08/books-livros-de-aberturas-para.html
+
+Jogo Chess GUI
+https://sourceforge.net/projects/chessx/
+
+Open Book 
+https://www.xadreznobre.com.br/chesspgn.html
+
+http://www.pkoziol.cal24.pl/opental/
+https://talkchess.com/forum3/viewtopic.php?f=2&t=14637&p=126413
+http://www.pkoziol.cal24.pl/rodent/rodent.htm
+
+https://www.pgnmentor.com/files.html
+https://www.chesspastebin.com/2023/
+https://goneill.co.nz/chess.php
+Class central 
+
+Chessmaster 9000 :
+
+Dana 332
+Mia 300
+Tracy 296
+Kia 294
+Ashley 230
+Dotie 229
+Raina 197
+Josie 121
+Winston 110
+Bambi 76
+Clyde 65
+Elena 62
+Ryan 28 
+
+Pocoyo - Perfect2023 3000 
+Com endgame e 10 random = perdi pro Logan
+Sem endgame e 00 random = perdi pra Queenie
+Com endgame e 00 random = perdi pro CM11
+Pocoyo - CMX 3000       = perdi pro CM11
+
+Pocoyo 
+Aleatoriedade + Livro de Abertura :
+Niko   48 Depth6
+Darcy  41
+Kamika 41
+Cassie 30
+Andre  25
+Ben    25
+Parker 22
+Pete   00
+Petra  00
+
+Instagram :
+
+A   Advanced -------------- Xadrez Cassie 
+    AdventureRedChapter    
+    Aqua                    Xadrez Pete                
+B   BattleUltimate
+    BlueStars4              Xadrez Niko 3
+    Brown                   Xadrez Ben
+C   Ceylon
+    Cerice                  Xadrez Parker
+    CloudWhite              Xadrez Andre 6
+D   DarkRuby
+    DarkWorship             Xadrez Kamika
+    DeltaEmerald            Xadrez Darcy
+E   EmeraldEnhanced         Xadrez Petra 9
+    EmeraldNegativeExp      Xadrez Sabrina
+    EmeraldOpen
+F   FatKid1.2.4
+    FireRedExtended         Xadrez Monique 
+    FireRedFat              Xadrez Tex 12
+G   Galacta 
+    Glazed                  Xadrez Audrey
+    GodOfArena              Xadrez Ross
+H   HardFire 
+    HardFire Diferente      Xadrez Lisa
+    HollowMysteries ()
+    HyperEmerald807         Xadrez Jesse
+I   IceAdventure            Xadrez Simon
+    IntenseIndigoEdition    Xadrez Kendra
+    IslasDoradas2.0 
+J   Jasper                  Xadrez Duke
+    Jewel                   Xadrez Skippy
+    JKR Alpha
+K   KantoBlack              Xadrez Carrie
+    KantoOrigins
+    KantoUltimate           Xadrez Jenna
+L   Legendary
+    LifeAlpha               Xadrez Seth
+    LightPlatinum           Xadrez Argyle       
+M   ManlyPink
+    MegaEmeraldVandYVersion Xadrez Manny
+    MegaEvolutionUniverse   Xadrez Lydia
+N   Naki
+    Naranja                 Xadrez Tina
+    Naruto                  Xadrez Teea
+O   Odyssey                 Xadrez Kid
+    OmegaRed                Xadrez Mona
+    OmegaRed 3.0
+P   PengieSkyEmerald        Xadrez Sonja
+    Perfect Emerald ()
+    Perfect Red ()
+    PureGreenv2.5.5         Xadrez Anders
+Q   QuarantineCrystal ()
+    Quartz                  Xadrez Lukca () ()
+    Quetzal                 Xadrez Jonesie () ()
+R   RadiantRed
+    Red 151 ()
+    R.O.W.E ()
+    RadicalRed              Xadrez Eddie () ()
+    Ragnarok ()
+    Red++                   Xadrez Ella () ()
+S   Saiph ()
+    SeasonVersion 2.1 ()
+    SharpDiamond            
+    SmogonEmerald
+    Suri ()
+T   TeamRocket
+    Tempest ()
+    TrianguloOrigenB3
+    TrueKanto ()
+    Twilight ()
+U   Unbound
+    UnboundBattleFrontier
+V   Valiance ()
+    Vega
+    Volcano
+    VR Missions ()
+W   WaterBlue ()
+    WeatheredRuby ()
+    WingsOfChaos ()
+    Wish ()
+    WorldChampionship
+    WorldStadium
+X   XY Emerald Version
+    XY FireRed Version
+    XYZ ()
+Y   YellowSpecialPikachu
+    Yu-Gi-Oh   
+    Yuval ()
+Z   Z ()
+    Zaru
+    ZX Beta 2.0
+
+---Trainer AI Script :
+https://www.youtube.com/watch?v=NZoIevjHBsc&ab_channel=StarstruckShiny
+Sprite 64x64 
+
+-CheckBadMove
+Makes sure that the AI doesn't do something useless
+-CheckViability
+Like CheckBadMove, but more sophisticated
+-TryToKO
+Tries to knock out your Pokémon with priority moves if possible
+-SetupFirstTurn
+Preferes boosting a stat right after being sent in
+-Risky
+Prefers ballsy play (succh as exploding early or fishing for critcs) at random
+-PreferStrongestMove
+Preferes high-power moves with bad side-effects
+-PreferBatonPass
+Uses Baton Pass after boosting stats. Can cause softlock
+-DoubleBattle
+Buffs allies that have Guts, Flash Fire, etc
+-HPAware
+Picks moves primarily base on remaining HP
+-Unknown
+Incomplete Double Battle AI script involving Sunny Day
+
 Chessmaster 
 
 -Learn 
